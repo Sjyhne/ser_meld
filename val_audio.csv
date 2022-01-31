@@ -1,0 +1,1109 @@
+,filepath,label,text,sentiment
+0,data/MELD.Raw/val_audio/dia0_utt0.mp3,sadness,"Oh my God, hes lost it. Hes totally lost it.",negative
+1,data/MELD.Raw/val_audio/dia0_utt1.mp3,surprise,What?,negative
+2,data/MELD.Raw/val_audio/dia1_utt0.mp3,neutral,"Or! Or, we could go to the bank, close our accounts and cut them off at the source.",neutral
+3,data/MELD.Raw/val_audio/dia1_utt1.mp3,joy,Youre a genius!,positive
+4,data/MELD.Raw/val_audio/dia1_utt2.mp3,sadness,"Aww, man, now we wont be bank buddies!",negative
+5,data/MELD.Raw/val_audio/dia1_utt3.mp3,neutral,"Now, theres two reasons.",neutral
+6,data/MELD.Raw/val_audio/dia1_utt4.mp3,neutral,Hey.,neutral
+7,data/MELD.Raw/val_audio/dia1_utt5.mp3,joy,Hey!,positive
+8,data/MELD.Raw/val_audio/dia1_utt6.mp3,neutral,"Ohh, you guys, remember that cute client I told you about? I bit him.",neutral
+9,data/MELD.Raw/val_audio/dia1_utt7.mp3,surprise,Where?!,negative
+10,data/MELD.Raw/val_audio/dia1_utt8.mp3,neutral,On the touchy.,neutral
+11,data/MELD.Raw/val_audio/dia1_utt9.mp3,neutral,And,neutral
+12,data/MELD.Raw/val_audio/dia1_utt10.mp3,surprise,"No, I know!",negative
+13,data/MELD.Raw/val_audio/dia1_utt11.mp3,anger,"I-Im sorry, but the moment I touch him, I just wanna throw out my old oath and take a new, dirty one.",negative
+14,data/MELD.Raw/val_audio/dia1_utt12.mp3,neutral,"Well, next time your massaging him, you should try and distract yourself.",neutral
+15,data/MELD.Raw/val_audio/dia1_utt13.mp3,joy,Yeah! Yeah! Yeah! Like-like when Im doing something exciting and I dont wanna get,positive
+16,data/MELD.Raw/val_audio/dia1_utt14.mp3,neutral,"Thank you, Joey.",neutral
+17,data/MELD.Raw/val_audio/dia1_utt15.mp3,neutral,"No-no, thank you.",neutral
+18,data/MELD.Raw/val_audio/dia2_utt0.mp3,neutral,"Hey Estelle, listen",neutral
+19,data/MELD.Raw/val_audio/dia2_utt1.mp3,surprise,Well! Well! Well! Joey Tribbiani! So you came back huh? They,positive
+20,data/MELD.Raw/val_audio/dia2_utt2.mp3,surprise,What are you talkin about? I never left you! Youve always been my agent!,negative
+21,data/MELD.Raw/val_audio/dia2_utt3.mp3,surprise,Really?!,positive
+22,data/MELD.Raw/val_audio/dia2_utt4.mp3,joy,Yeah!,positive
+23,data/MELD.Raw/val_audio/dia2_utt5.mp3,neutral,"Oh well, no harm, no foul.",neutral
+24,data/MELD.Raw/val_audio/dia3_utt0.mp3,neutral,"Okay, you guys free tonight?",neutral
+25,data/MELD.Raw/val_audio/dia3_utt1.mp3,joy,Yeah!!,positive
+26,data/MELD.Raw/val_audio/dia3_utt2.mp3,surprise,Tonight? You-you didn't say it was going to be at nighttime.,negative
+27,data/MELD.Raw/val_audio/dia4_utt0.mp3,neutral,Yes? Yes?! How can I help you?,neutral
+28,data/MELD.Raw/val_audio/dia4_utt1.mp3,neutral,"Yeah, we werewe were just looking around.",neutral
+29,data/MELD.Raw/val_audio/dia4_utt2.mp3,surprise,"Oh-oh, youre-youre fellow scholars.",negative
+30,data/MELD.Raw/val_audio/dia4_utt3.mp3,neutral,"What exactly were you looking for, hmm?",neutral
+31,data/MELD.Raw/val_audio/dia4_utt4.mp3,neutral,"Perhaps,  perhaps Dr. Chester Stocks musings on the Smiledon Californicus?",neutral
+32,data/MELD.Raw/val_audio/dia4_utt5.mp3,neutral,Uhh.,neutral
+33,data/MELD.Raw/val_audio/dia4_utt6.mp3,anger,"Ah AhGet out of here!  Uh, meeting someone? Or-or are you just here to brush up on Marions views on evolution?",negative
+34,data/MELD.Raw/val_audio/dia4_utt7.mp3,neutral,"Uh, actually I find Marions views far too progressionist.",neutral
+35,data/MELD.Raw/val_audio/dia4_utt8.mp3,neutral,I find Marions views far too progressionist.,neutral
+36,data/MELD.Raw/val_audio/dia4_utt9.mp3,surprise,"Im sorry, who are you?",positive
+37,data/MELD.Raw/val_audio/dia4_utt10.mp3,neutral,"Im a professor here uh, RossGeller.",neutral
+38,data/MELD.Raw/val_audio/dia4_utt11.mp3,surprise,"Ross Geller, why do I know that name? Its uhWait!  Did you write this?",positive
+39,data/MELD.Raw/val_audio/dia4_utt12.mp3,surprise,Yes! Youre the person who checked out my book?!,positive
+40,data/MELD.Raw/val_audio/dia4_utt13.mp3,surprise,"Yknow, you look nothing like I wouldve thought. Youreyoure so young.",positive
+41,data/MELD.Raw/val_audio/dia4_utt14.mp3,neutral,"Well I uh, I skipped forth grade.",neutral
+42,data/MELD.Raw/val_audio/dia5_utt0.mp3,anger,You had no right to tell me you ever had feelings for me.,negative
+43,data/MELD.Raw/val_audio/dia5_utt1.mp3,surprise,What?,negative
+44,data/MELD.Raw/val_audio/dia5_utt2.mp3,anger,I was doing great with Julie before I found out about you.,negative
+45,data/MELD.Raw/val_audio/dia5_utt3.mp3,anger,"Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?",negative
+46,data/MELD.Raw/val_audio/dia5_utt4.mp3,anger,The point is I...,negative
+47,data/MELD.Raw/val_audio/dia5_utt5.mp3,anger,"I don't need this right now, OK.",negative
+48,data/MELD.Raw/val_audio/dia5_utt6.mp3,anger,"It, it's too late, I'm with somebody else, I'm happy.",negative
+49,data/MELD.Raw/val_audio/dia5_utt7.mp3,anger,This ship has sailed.,negative
+50,data/MELD.Raw/val_audio/dia5_utt8.mp3,anger,"Alright, fine, you go ahead and you do that, alright Ross.",negative
+51,data/MELD.Raw/val_audio/dia5_utt9.mp3,anger,Fine.,negative
+52,data/MELD.Raw/val_audio/dia5_utt10.mp3,anger,Cause I don't need your stupid ship.,negative
+53,data/MELD.Raw/val_audio/dia5_utt11.mp3,anger,Good.,negative
+54,data/MELD.Raw/val_audio/dia5_utt12.mp3,anger,Good.,negative
+55,data/MELD.Raw/val_audio/dia6_utt0.mp3,joy,"Oh, it's so romantic to send people off on their honeymoon.",positive
+56,data/MELD.Raw/val_audio/dia6_utt1.mp3,neutral,"Yknow, Monica and Chandler are married. Ross and Rachel are having a baby. Maybe you and I should do something.",neutral
+57,data/MELD.Raw/val_audio/dia6_utt2.mp3,neutral,All in good time my love.,neutral
+58,data/MELD.Raw/val_audio/dia6_utt3.mp3,neutral,All in good time.,neutral
+59,data/MELD.Raw/val_audio/dia6_utt4.mp3,surprise,Oh shoot!,negative
+60,data/MELD.Raw/val_audio/dia6_utt5.mp3,sadness,I left my guitar in their apartment.,negative
+61,data/MELD.Raw/val_audio/dia6_utt6.mp3,neutral,Well you can let me in later.,neutral
+62,data/MELD.Raw/val_audio/dia6_utt7.mp3,neutral,"I dont have a key, they took mine to give to you.",neutral
+63,data/MELD.Raw/val_audio/dia6_utt8.mp3,surprise,What?! They took mine to give to you!,negative
+64,data/MELD.Raw/val_audio/dia6_utt9.mp3,surprise,Why would they take away our keys?,negative
+65,data/MELD.Raw/val_audio/dia7_utt0.mp3,joy,Wow! It looks like we got a lot of good stuff.,positive
+66,data/MELD.Raw/val_audio/dia7_utt1.mp3,joy,"Oh we did, but my mom got us the greatest gift of all.",positive
+67,data/MELD.Raw/val_audio/dia7_utt2.mp3,neutral,A,neutral
+68,data/MELD.Raw/val_audio/dia7_utt3.mp3,neutral,No. Shes going to live with us for eight weeks.,neutral
+69,data/MELD.Raw/val_audio/dia7_utt4.mp3,surprise,"Uh, what?",positive
+70,data/MELD.Raw/val_audio/dia7_utt5.mp3,joy,Yes! Shes gonna help us take care of the baby! Woo-hoo.,positive
+71,data/MELD.Raw/val_audio/dia7_utt6.mp3,surprise,WhatYoure not serious.,negative
+72,data/MELD.Raw/val_audio/dia7_utt7.mp3,anger,"I mean shes a very nice woman, but there is no way we can take eight weeks of her.",negative
+73,data/MELD.Raw/val_audio/dia7_utt8.mp3,disgust,Shell drive us totally crazy.,negative
+74,data/MELD.Raw/val_audio/dia7_utt9.mp3,joy,Hi Ross!,positive
+75,data/MELD.Raw/val_audio/dia7_utt10.mp3,joy,Hi roomie!,positive
+76,data/MELD.Raw/val_audio/dia8_utt0.mp3,neutral,Hey! What did you decide to do about the movie?,neutral
+77,data/MELD.Raw/val_audio/dia8_utt1.mp3,neutral,I dont know!,neutral
+78,data/MELD.Raw/val_audio/dia8_utt2.mp3,neutral,Its not like its porn!,neutral
+79,data/MELD.Raw/val_audio/dia8_utt3.mp3,neutral,"This is a serious, legitimate movie.",neutral
+80,data/MELD.Raw/val_audio/dia8_utt4.mp3,neutral,And the nudity is really important to the story.,neutral
+81,data/MELD.Raw/val_audio/dia8_utt5.mp3,neutral,Thats what you say about porn.,neutral
+82,data/MELD.Raw/val_audio/dia8_utt6.mp3,neutral,Youre right. Maybe I shouldnt even go on the call back.,neutral
+83,data/MELD.Raw/val_audio/dia8_utt7.mp3,joy,"No! No you should! A lot of major actors do nude scenes! I mean, the chance to star in a movie? Come on!",positive
+84,data/MELD.Raw/val_audio/dia8_utt8.mp3,neutral,Well thats true.,neutral
+85,data/MELD.Raw/val_audio/dia8_utt9.mp3,neutral,And I am only naked in one scene.,neutral
+86,data/MELD.Raw/val_audio/dia8_utt10.mp3,neutral,Plus it sounds really great.,neutral
+87,data/MELD.Raw/val_audio/dia8_utt11.mp3,neutral,My characters catholic and he falls in love with this Jewish girl.,neutral
+88,data/MELD.Raw/val_audio/dia8_utt12.mp3,neutral,Who run away together and they get caught in this big rainstorm.,neutral
+89,data/MELD.Raw/val_audio/dia8_utt13.mp3,neutral,So we go into this barn and undress each other and hold each other.,neutral
+90,data/MELD.Raw/val_audio/dia8_utt14.mp3,joy,Its really sweet and-and tender.,positive
+91,data/MELD.Raw/val_audio/dia9_utt0.mp3,neutral,"Hey, whats up?",neutral
+92,data/MELD.Raw/val_audio/dia9_utt1.mp3,sadness,"Nothing, Monica and I had a stupid fight.",negative
+93,data/MELD.Raw/val_audio/dia9_utt2.mp3,neutral,"But youre still moving in together, right? Because my ad came out today.",neutral
+94,data/MELD.Raw/val_audio/dia9_utt3.mp3,joy,"""Wanted. Female roommate, non-smoker, non-ugly."" Nice!",positive
+95,data/MELD.Raw/val_audio/dia9_utt4.mp3,neutral,Yeah?,neutral
+96,data/MELD.Raw/val_audio/dia9_utt5.mp3,neutral,"I just figured yknow, after living with you itd be an interesting change of pace to have a female roommate, yknow?",neutral
+97,data/MELD.Raw/val_audio/dia9_utt6.mp3,neutral,"Someone I can learn from, someone-someone whos different than me.",neutral
+98,data/MELD.Raw/val_audio/dia9_utt7.mp3,neutral,And whats more different than me. A guy whos,neutral
+99,data/MELD.Raw/val_audio/dia10_utt0.mp3,neutral,So where are we going next?,neutral
+100,data/MELD.Raw/val_audio/dia10_utt1.mp3,neutral,This witness won't return my calls so we're gonna see if we can surprise him coming home.,neutral
+101,data/MELD.Raw/val_audio/dia10_utt2.mp3,fear,"Sur-surprise him? We're not, we're not gonna make anybody mad are we?",negative
+102,data/MELD.Raw/val_audio/dia10_utt3.mp3,joy,"Come on man!  Listen so uh, are you gonna squeeze the perps shoes a little bit before he lawyers up?",positive
+103,data/MELD.Raw/val_audio/dia10_utt4.mp3,anger,It's a witness not a perp. And no one talks like that!,negative
+104,data/MELD.Raw/val_audio/dia10_utt5.mp3,anger,"Yeah, no one talks like that!",negative
+105,data/MELD.Raw/val_audio/dia10_utt6.mp3,anger,Oh what? Like your Mr. Cop!,negative
+106,data/MELD.Raw/val_audio/dia10_utt7.mp3,anger,"Hey, I'm more cop than you two!",negative
+107,data/MELD.Raw/val_audio/dia10_utt8.mp3,neutral,How do you figure that?,neutral
+108,data/MELD.Raw/val_audio/dia10_utt9.mp3,neutral,"Hello! I'm in the front seat, okay? I'm Gary's partner!",neutral
+109,data/MELD.Raw/val_audio/dia11_utt0.mp3,neutral,I guess so.,neutral
+110,data/MELD.Raw/val_audio/dia11_utt1.mp3,neutral,Here you go. Thank you!,neutral
+111,data/MELD.Raw/val_audio/dia11_utt2.mp3,neutral,"Wait, Rach! Where's the other one?",neutral
+112,data/MELD.Raw/val_audio/dia11_utt3.mp3,surprise,"Oh what, you-you want both of them?",positive
+113,data/MELD.Raw/val_audio/dia11_utt4.mp3,anger,"Rachel Karen Green, where's the other earring?!",negative
+114,data/MELD.Raw/val_audio/dia11_utt5.mp3,fear,"Okay, okay, okay, look, just don't freak out, but I kinda lost it.",negative
+115,data/MELD.Raw/val_audio/dia11_utt6.mp3,neutral,"I know it's in the apartment, but I",neutral
+116,data/MELD.Raw/val_audio/dia11_utt7.mp3,fear,"Well, what am I going to tell Monica? She wants to wear them tonight!",negative
+117,data/MELD.Raw/val_audio/dia11_utt8.mp3,anger,Tell her to wear her own earrings.,negative
+118,data/MELD.Raw/val_audio/dia11_utt9.mp3,neutral,These,neutral
+119,data/MELD.Raw/val_audio/dia11_utt10.mp3,anger,Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!,negative
+120,data/MELD.Raw/val_audio/dia11_utt11.mp3,neutral,Why not?,neutral
+121,data/MELD.Raw/val_audio/dia11_utt12.mp3,anger,Because I lose her stuff!,negative
+122,data/MELD.Raw/val_audio/dia12_utt0.mp3,neutral,"Uh Phoebe, can I see you for a second?",neutral
+123,data/MELD.Raw/val_audio/dia12_utt1.mp3,neutral,Yeah!,neutral
+124,data/MELD.Raw/val_audio/dia12_utt2.mp3,neutral,Whats going on?,neutral
+125,data/MELD.Raw/val_audio/dia12_utt3.mp3,surprise,Chandlers gone again!,negative
+126,data/MELD.Raw/val_audio/dia12_utt4.mp3,sadness,Oh my God! Why would you play hide and seek with someone you know is a flight risk?!,negative
+127,data/MELD.Raw/val_audio/dia13_utt0.mp3,neutral,Okay. You ready to push again?,neutral
+128,data/MELD.Raw/val_audio/dia13_utt1.mp3,anger,I already had a baby. Leave me alone.,negative
+129,data/MELD.Raw/val_audio/dia13_utt2.mp3,joy,"Okay, okay, come on, you can do it. You can do it!",positive
+130,data/MELD.Raw/val_audio/dia13_utt3.mp3,joy,Yeah!!,positive
+131,data/MELD.Raw/val_audio/dia13_utt4.mp3,joy,Little Leslie is here!,positive
+132,data/MELD.Raw/val_audio/dia13_utt5.mp3,surprise,We got another one!,positive
+133,data/MELD.Raw/val_audio/dia13_utt6.mp3,surprise,"Oh my God, I can't believe I have two-two children.",positive
+134,data/MELD.Raw/val_audio/dia13_utt7.mp3,surprise,How scary is that?,positive
+135,data/MELD.Raw/val_audio/dia13_utt8.mp3,joy,"Come on little Chandler, it's time to be born. Come on little Chandler! Come on!",positive
+136,data/MELD.Raw/val_audio/dia13_utt9.mp3,joy,"All right, he's coming. He's coming!",positive
+137,data/MELD.Raw/val_audio/dia13_utt10.mp3,surprise,"Hey, where's his thing?",negative
+138,data/MELD.Raw/val_audio/dia13_utt11.mp3,surprise,Chandler's a girl!,positive
+139,data/MELD.Raw/val_audio/dia13_utt12.mp3,surprise,"Oh God, kindergarten flashback.",negative
+140,data/MELD.Raw/val_audio/dia13_utt13.mp3,surprise,They musta read the sonogram wrong.,negative
+141,data/MELD.Raw/val_audio/dia13_utt14.mp3,surprise,"Cause they, 'cause they thought it was a boy, but Chandler's a girl!",positive
+142,data/MELD.Raw/val_audio/dia13_utt15.mp3,surprise,Chandler's a girl!,positive
+143,data/MELD.Raw/val_audio/dia13_utt16.mp3,joy,"Okay, keep saying it!",positive
+144,data/MELD.Raw/val_audio/dia13_utt17.mp3,neutral,Am I too late?!,neutral
+145,data/MELD.Raw/val_audio/dia13_utt18.mp3,joy,"No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes.",positive
+146,data/MELD.Raw/val_audio/dia13_utt19.mp3,surprise,We have our babies?,positive
+147,data/MELD.Raw/val_audio/dia13_utt20.mp3,joy,Yeah.,positive
+148,data/MELD.Raw/val_audio/dia13_utt21.mp3,joy,"Oh, we have our babies.",positive
+149,data/MELD.Raw/val_audio/dia14_utt0.mp3,joy,Hey Toby!,positive
+150,data/MELD.Raw/val_audio/dia14_utt1.mp3,neutral,Hey Bobby.,neutral
+151,data/MELD.Raw/val_audio/dia14_utt2.mp3,neutral,"Its Bob actually. Hey, you work up here, can you tell me where this Chandler",neutral
+152,data/MELD.Raw/val_audio/dia14_utt3.mp3,neutral,"Uhh yeah. Yeah, its  right, right down there.  Right there, yeah. Can I ask you why?",neutral
+153,data/MELD.Raw/val_audio/dia14_utt4.mp3,anger,"I want to talk to that bastard, see what his problem is.",negative
+154,data/MELD.Raw/val_audio/dia14_utt5.mp3,sadness,"Okay Bob listen uhh, Im the reason you didnt get the job up here.",negative
+155,data/MELD.Raw/val_audio/dia14_utt6.mp3,sadness,Toby dont.,negative
+156,data/MELD.Raw/val_audio/dia14_utt7.mp3,sadness,Bob!,negative
+157,data/MELD.Raw/val_audio/dia14_utt8.mp3,anger,Toby! Im not gonna let you cover for him. Anything you say right now will just get me more upset with Chandler!,negative
+158,data/MELD.Raw/val_audio/dia15_utt0.mp3,joy,Thank you.  Oh Joey and look at this crib! Its so cute!,positive
+159,data/MELD.Raw/val_audio/dia15_utt1.mp3,joy,I know! I found it on the street.,positive
+160,data/MELD.Raw/val_audio/dia15_utt2.mp3,surprise,Are you seriousReally?! Its in such good condition.,positive
+161,data/MELD.Raw/val_audio/dia15_utt3.mp3,neutral,Yeah.,neutral
+162,data/MELD.Raw/val_audio/dia15_utt4.mp3,surprise,Wow! Whoa-whoa whats under the covers?,negative
+163,data/MELD.Raw/val_audio/dia15_utt5.mp3,neutral,I dont know.,neutral
+164,data/MELD.Raw/val_audio/dia15_utt6.mp3,fear,Its moving.,negative
+165,data/MELD.Raw/val_audio/dia15_utt7.mp3,disgust,Ew.,negative
+166,data/MELD.Raw/val_audio/dia15_utt8.mp3,fear,Its stillIts got a tail! Get it out of here! Get it out of here!!,negative
+167,data/MELD.Raw/val_audio/dia15_utt9.mp3,fear,Ooh! Ah! Okay!,negative
+168,data/MELD.Raw/val_audio/dia16_utt0.mp3,neutral,"Well, I went over to Kyles last night to pick up a few things and we got to reminiscing",neutral
+169,data/MELD.Raw/val_audio/dia16_utt1.mp3,sadness,we talked through most of the night and we realized that the reason we were so angry at each other was because there are still feelings there. So,negative
+170,data/MELD.Raw/val_audio/dia16_utt2.mp3,surprise,Oh just say it Kyle!,negative
+171,data/MELD.Raw/val_audio/dia16_utt3.mp3,joy,Were gonna give it another try.,positive
+172,data/MELD.Raw/val_audio/dia16_utt4.mp3,anger,What about her whining and her constant need for attention?!,negative
+173,data/MELD.Raw/val_audio/dia16_utt5.mp3,neutral,Im gonna work on that.,neutral
+174,data/MELD.Raw/val_audio/dia16_utt6.mp3,anger,"Oh right, because youre so capable of change.",negative
+175,data/MELD.Raw/val_audio/dia16_utt7.mp3,anger,"Yknow, he hums when he pees!",negative
+176,data/MELD.Raw/val_audio/dia16_utt8.mp3,neutral,I do know.,neutral
+177,data/MELD.Raw/val_audio/dia16_utt9.mp3,disgust,"It makes him miss the bowl, but whatever.",negative
+178,data/MELD.Raw/val_audio/dia16_utt10.mp3,sadness,Were so sorry.,negative
+179,data/MELD.Raw/val_audio/dia16_utt11.mp3,anger,"Thats all right, we-we dont need you. In fact, hey Im over it already.",negative
+180,data/MELD.Raw/val_audio/dia16_utt12.mp3,anger,"Yeah, and yknow what? I dont give a tiny rats ass.",negative
+181,data/MELD.Raw/val_audio/dia16_utt13.mp3,neutral,"Yeah, were gonna go.",neutral
+182,data/MELD.Raw/val_audio/dia16_utt14.mp3,sadness,"Im sorry. Ugh, Pheebs, you were, you were right about her. Yknow, she",negative
+183,data/MELD.Raw/val_audio/dia16_utt15.mp3,neutral,"Oh. Yknow, he hums while he does other stuff to.",neutral
+184,data/MELD.Raw/val_audio/dia16_utt16.mp3,anger,"Yeah, we're better off without them.",negative
+185,data/MELD.Raw/val_audio/dia16_utt17.mp3,anger,"And yknow, even if they break up again, youd better not let him in your sad mens club!",negative
+186,data/MELD.Raw/val_audio/dia16_utt18.mp3,sadness,Divorced mens club.,negative
+187,data/MELD.Raw/val_audio/dia17_utt0.mp3,anger,Why isnt that valet back with my Porsche?,negative
+188,data/MELD.Raw/val_audio/dia17_utt1.mp3,anger,Maybe because youve got the keys?,negative
+189,data/MELD.Raw/val_audio/dia17_utt2.mp3,anger,This is totally your fault!,negative
+190,data/MELD.Raw/val_audio/dia17_utt3.mp3,anger,My fault?! You threatened the judge!,negative
+191,data/MELD.Raw/val_audio/dia17_utt4.mp3,anger,"Well, you ripped the paper out of the court reporters machine!!",negative
+192,data/MELD.Raw/val_audio/dia18_utt0.mp3,neutral,Phoebe!,neutral
+193,data/MELD.Raw/val_audio/dia18_utt1.mp3,neutral,Yeah?,neutral
+194,data/MELD.Raw/val_audio/dia18_utt2.mp3,neutral,Have you seen Chandler?!,neutral
+195,data/MELD.Raw/val_audio/dia18_utt3.mp3,neutral,No! Why?,neutral
+196,data/MELD.Raw/val_audio/dia18_utt4.mp3,fear,The woman from the museum called and said that there was a cancellation and that we could move up our wedding and Chandler heard!,negative
+197,data/MELD.Raw/val_audio/dia18_utt5.mp3,fear,I know!,negative
+198,data/MELD.Raw/val_audio/dia18_utt6.mp3,fear,How bad is this?,negative
+199,data/MELD.Raw/val_audio/dia18_utt7.mp3,fear,"Well for the regular guy, its bad, but Chandler, Oh dear God!",negative
+200,data/MELD.Raw/val_audio/dia18_utt8.mp3,fear,I know! I know! And he totally freaked out and I cant find him anywhere!,negative
+201,data/MELD.Raw/val_audio/dia18_utt9.mp3,neutral,What are you gonna do?,neutral
+202,data/MELD.Raw/val_audio/dia18_utt10.mp3,anger,"Well, Im never gonna listen to you again, thats for sure!",negative
+203,data/MELD.Raw/val_audio/dia18_utt11.mp3,neutral,"""Yknow, harm can it do if you go and put your name down?""",neutral
+204,data/MELD.Raw/val_audio/dia18_utt12.mp3,surprise,Rachel said that!,negative
+205,data/MELD.Raw/val_audio/dia18_utt13.mp3,anger,Well Rachels not here!,negative
+206,data/MELD.Raw/val_audio/dia19_utt0.mp3,neutral,"Come on, come on.",neutral
+207,data/MELD.Raw/val_audio/dia19_utt1.mp3,anger,"Damnit, damnit, damnit, damnit.",negative
+208,data/MELD.Raw/val_audio/dia19_utt2.mp3,anger,This is all your fault.,negative
+209,data/MELD.Raw/val_audio/dia19_utt3.mp3,anger,"This is supposed to be, like, the greatest day of my life, y'know?",negative
+210,data/MELD.Raw/val_audio/dia19_utt4.mp3,anger,"My son is being born, and I should be in there, you know, instead of stuck in a closet with you.",negative
+211,data/MELD.Raw/val_audio/dia19_utt5.mp3,anger,The woman I love is having a baby today. I've been waiting for this just as much as you have.,negative
+212,data/MELD.Raw/val_audio/dia19_utt6.mp3,anger,"No no no, believe me.",negative
+213,data/MELD.Raw/val_audio/dia19_utt7.mp3,anger,"No one has been waiting for this as much as I have, ok?",negative
+214,data/MELD.Raw/val_audio/dia19_utt8.mp3,neutral,And you know what the funny thing is?,neutral
+215,data/MELD.Raw/val_audio/dia19_utt9.mp3,anger,"When this day is over, you get to go home with the baby, ok?",negative
+216,data/MELD.Raw/val_audio/dia19_utt10.mp3,sadness,Where does that leave me?,negative
+217,data/MELD.Raw/val_audio/dia19_utt11.mp3,neutral,You get to be the baby's father.,neutral
+218,data/MELD.Raw/val_audio/dia19_utt12.mp3,neutral,Everyone knows who you are.,neutral
+219,data/MELD.Raw/val_audio/dia19_utt13.mp3,anger,Who am I?,negative
+220,data/MELD.Raw/val_audio/dia19_utt14.mp3,sadness,"There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.",negative
+221,data/MELD.Raw/val_audio/dia19_utt15.mp3,neutral,Every day is Lesbian Lover Day.,neutral
+222,data/MELD.Raw/val_audio/dia19_utt16.mp3,joy,This is so great.,positive
+223,data/MELD.Raw/val_audio/dia19_utt17.mp3,neutral,You wanna explain that?,neutral
+224,data/MELD.Raw/val_audio/dia19_utt18.mp3,sadness,"I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one.",negative
+225,data/MELD.Raw/val_audio/dia19_utt19.mp3,joy,And here's this little baby who has like three whole parents who care about it so much that they're fighting over who gets to love it the most.,positive
+226,data/MELD.Raw/val_audio/dia19_utt20.mp3,sadness,And it's not even born yet.,negative
+227,data/MELD.Raw/val_audio/dia19_utt21.mp3,joy,"It's just, it's just the luckiest baby in the whole world.",positive
+228,data/MELD.Raw/val_audio/dia19_utt22.mp3,sadness,"I'm sorry, you were fighting.",negative
+229,data/MELD.Raw/val_audio/dia20_utt0.mp3,neutral,"Okay, it's a typical New York City apartment. Two girls are just hanging out.",neutral
+230,data/MELD.Raw/val_audio/dia20_utt1.mp3,neutral,"Hi, how are you doing Kelly?",neutral
+231,data/MELD.Raw/val_audio/dia20_utt2.mp3,joy,"I'm doing just fine! God, Tiffany, you smell so great!",positive
+232,data/MELD.Raw/val_audio/dia20_utt3.mp3,neutral,It's my new perfume. Why don't you come closer where you can,neutral
+233,data/MELD.Raw/val_audio/dia20_utt4.mp3,disgust,"Oh, y'know Joey, you are sick!",negative
+234,data/MELD.Raw/val_audio/dia20_utt5.mp3,disgust,This is disgusting!,negative
+235,data/MELD.Raw/val_audio/dia20_utt6.mp3,disgust,I'm not reading this!,negative
+236,data/MELD.Raw/val_audio/dia20_utt7.mp3,surprise,What?! Wait-wait-wait! The handsome man was about to enter!!,negative
+237,data/MELD.Raw/val_audio/dia21_utt0.mp3,neutral,"All right, I'll give you this, Mr. Peanut is a better dresser.",neutral
+238,data/MELD.Raw/val_audio/dia21_utt1.mp3,neutral,"I mean he's got the monocle, he's got the top hat...",neutral
+239,data/MELD.Raw/val_audio/dia21_utt2.mp3,neutral,You know he's gay?,neutral
+240,data/MELD.Raw/val_audio/dia21_utt3.mp3,neutral,I just wanna clarify this: are you outing Mr. Peanut?,neutral
+241,data/MELD.Raw/val_audio/dia21_utt4.mp3,neutral,"Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.",neutral
+242,data/MELD.Raw/val_audio/dia21_utt5.mp3,neutral,Hi. Hi.,neutral
+243,data/MELD.Raw/val_audio/dia21_utt6.mp3,surprise,What are you doing here?,positive
+244,data/MELD.Raw/val_audio/dia22_utt0.mp3,neutral,"Well, what?",neutral
+245,data/MELD.Raw/val_audio/dia22_utt1.mp3,neutral,What?,neutral
+246,data/MELD.Raw/val_audio/dia22_utt2.mp3,neutral,What is it?,neutral
+247,data/MELD.Raw/val_audio/dia22_utt3.mp3,surprise,That she left you?,negative
+248,data/MELD.Raw/val_audio/dia22_utt4.mp3,neutral,That she likes women?,neutral
+249,data/MELD.Raw/val_audio/dia22_utt5.mp3,neutral,That she left you for another woman that likes women?,neutral
+250,data/MELD.Raw/val_audio/dia22_utt6.mp3,anger,"Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...",negative
+251,data/MELD.Raw/val_audio/dia22_utt7.mp3,neutral,Then what?,neutral
+252,data/MELD.Raw/val_audio/dia22_utt8.mp3,neutral,My first time with Carol was...,neutral
+253,data/MELD.Raw/val_audio/dia22_utt9.mp3,neutral,What?,neutral
+254,data/MELD.Raw/val_audio/dia22_utt10.mp3,neutral,It was my,neutral
+255,data/MELD.Raw/val_audio/dia22_utt11.mp3,surprise,With Carol?  Oh.,negative
+256,data/MELD.Raw/val_audio/dia22_utt12.mp3,surprise,"So in your whole life, you've only been with oneoh.",negative
+257,data/MELD.Raw/val_audio/dia22_utt13.mp3,surprise,"Whoah, boy, hockey was a big mistake! There was a whole bunch of stuff we could've done tonight!",negative
+258,data/MELD.Raw/val_audio/dia23_utt0.mp3,neutral,Hi. Where is everybody?,neutral
+259,data/MELD.Raw/val_audio/dia23_utt1.mp3,sadness,"Oh, its already closed, Chris gave me the keys to lock up-what is wrong?",negative
+260,data/MELD.Raw/val_audio/dia23_utt2.mp3,sadness,"My marriage, I think my marriage is um, is kinda over.",negative
+261,data/MELD.Raw/val_audio/dia23_utt3.mp3,surprise,Oh no! Why?,negative
+262,data/MELD.Raw/val_audio/dia23_utt4.mp3,sadness,"Cause Carols a lesbian.  And, and Im not one. And apparently its not a mix and match situation.",negative
+263,data/MELD.Raw/val_audio/dia23_utt5.mp3,surprise,"Oh my God! I dont believe it! Oh, you poor bunny.",negative
+264,data/MELD.Raw/val_audio/dia23_utt6.mp3,disgust,Im an idiot.,negative
+265,data/MELD.Raw/val_audio/dia23_utt7.mp3,sadness,"I mean shoulda seen it, I mean Carol and Id be out and shed, shed see some beautiful woman, and, and shed be Ross y'know look at her, and Id think, God, my wife is cool!",negative
+266,data/MELD.Raw/val_audio/dia23_utt8.mp3,neutral,"Aw! Hey, do you think that Susan person is her lover?",neutral
+267,data/MELD.Raw/val_audio/dia23_utt9.mp3,surprise,"Well, now I do!!",negative
+268,data/MELD.Raw/val_audio/dia23_utt10.mp3,sadness,Im sorry.,negative
+269,data/MELD.Raw/val_audio/dia23_utt11.mp3,sadness,Seven years.,negative
+270,data/MELD.Raw/val_audio/dia23_utt12.mp3,sadness,"I mean weve been together seven years, shes the only woman whos ever loved me, and the only woman Ive-Ive ever....",negative
+271,data/MELD.Raw/val_audio/dia23_utt13.mp3,sadness,"Aw, God Ross. Oh.",negative
+272,data/MELD.Raw/val_audio/dia24_utt0.mp3,neutral,Ill do it.,neutral
+273,data/MELD.Raw/val_audio/dia24_utt1.mp3,neutral,No you wont.,neutral
+274,data/MELD.Raw/val_audio/dia24_utt2.mp3,sadness,"Look he knows he did a terrible thing and I believe him, hes sorry.",negative
+275,data/MELD.Raw/val_audio/dia24_utt3.mp3,neutral,"But,  youve got one more apology to make, all right, youve got to apologize to Mary-Angela.",neutral
+276,data/MELD.Raw/val_audio/dia24_utt4.mp3,joy,"Okay, absolutely!",positive
+277,data/MELD.Raw/val_audio/dia24_utt5.mp3,neutral,All right.,neutral
+278,data/MELD.Raw/val_audio/dia24_utt6.mp3,neutral,Youve got it.,neutral
+279,data/MELD.Raw/val_audio/dia24_utt7.mp3,anger,"Cookie, now you can punch him!",negative
+280,data/MELD.Raw/val_audio/dia24_utt8.mp3,surprise,What?!,negative
+281,data/MELD.Raw/val_audio/dia25_utt0.mp3,anger,"All right, that's it, I quit.",negative
+282,data/MELD.Raw/val_audio/dia25_utt1.mp3,surprise,What? I didn't say anything.,negative
+283,data/MELD.Raw/val_audio/dia25_utt2.mp3,anger,"Yeah, but this  isn't the face of a person who trusts a person.",negative
+284,data/MELD.Raw/val_audio/dia25_utt3.mp3,anger,"Ok, this  is the face of a person who, you know, doesn't trust a person.",negative
+285,data/MELD.Raw/val_audio/dia25_utt4.mp3,sadness,"I'm sorry. I'm sorry, Phoebe. It's just a little shorter than what we had discussed.",negative
+286,data/MELD.Raw/val_audio/dia25_utt5.mp3,anger,Would you relax? I know what I am doing. This is how he wears it.,negative
+287,data/MELD.Raw/val_audio/dia26_utt0.mp3,neutral,Julie.,neutral
+288,data/MELD.Raw/val_audio/dia26_utt1.mp3,surprise,What?!,negative
+289,data/MELD.Raw/val_audio/dia26_utt2.mp3,surprise,Jody!,negative
+290,data/MELD.Raw/val_audio/dia26_utt3.mp3,neutral,You were with Julie?,neutral
+291,data/MELD.Raw/val_audio/dia26_utt4.mp3,neutral,"Look, when it started I was just trying to be nice to her because she was my brother's girlfriend.",neutral
+292,data/MELD.Raw/val_audio/dia26_utt5.mp3,neutral,"And then, one thing led to another and, before I knew it, we were...shopping.",neutral
+293,data/MELD.Raw/val_audio/dia26_utt6.mp3,surprise,Oh. Oh my God.,negative
+294,data/MELD.Raw/val_audio/dia26_utt7.mp3,sadness,"Honey, wait. We only did it once. It didn't mean anything to me.",negative
+295,data/MELD.Raw/val_audio/dia26_utt8.mp3,anger,"Yeah, right.  Sure!",negative
+296,data/MELD.Raw/val_audio/dia26_utt9.mp3,sadness,"Really, Rachel, I was thinking of you the whole time.",negative
+297,data/MELD.Raw/val_audio/dia26_utt10.mp3,sadness,"Look, I'm sorry, all right.",negative
+298,data/MELD.Raw/val_audio/dia26_utt11.mp3,sadness,I never meant for you to find out!,negative
+299,data/MELD.Raw/val_audio/dia26_utt12.mp3,anger,"Oh, please, you wanted to get caught.",negative
+300,data/MELD.Raw/val_audio/dia26_utt13.mp3,anger,That is not true!,negative
+301,data/MELD.Raw/val_audio/dia26_utt14.mp3,anger,"Oh, so you just sort of happened to leave it in here?",negative
+302,data/MELD.Raw/val_audio/dia26_utt15.mp3,anger,Did it ever occur to you that I might just be that stupid?,negative
+303,data/MELD.Raw/val_audio/dia26_utt16.mp3,sadness,"Ok, Monica. I just have to know one thing. Did you go with her to",negative
+304,data/MELD.Raw/val_audio/dia27_utt0.mp3,surprise,Yeah!,negative
+305,data/MELD.Raw/val_audio/dia27_utt1.mp3,neutral,I cant say.,neutral
+306,data/MELD.Raw/val_audio/dia27_utt2.mp3,surprise,Why?!,negative
+307,data/MELD.Raw/val_audio/dia27_utt3.mp3,sadness,Why not?,negative
+308,data/MELD.Raw/val_audio/dia27_utt4.mp3,neutral,I cant say because hes famous.,neutral
+309,data/MELD.Raw/val_audio/dia27_utt5.mp3,surprise,"Oh my God, who is it?!",negative
+310,data/MELD.Raw/val_audio/dia27_utt6.mp3,anger,"Phoebe, come on, you have to tell us.",negative
+311,data/MELD.Raw/val_audio/dia27_utt7.mp3,neutral,"Okay, okay. Its James Brolin. James Brolin is the father of my baby.",neutral
+312,data/MELD.Raw/val_audio/dia27_utt8.mp3,surprise,As in Barbara Streisands husband James Brolin?,negative
+313,data/MELD.Raw/val_audio/dia27_utt9.mp3,surprise,What?! Well he never said that to me!,negative
+314,data/MELD.Raw/val_audio/dia28_utt0.mp3,neutral,In,neutral
+315,data/MELD.Raw/val_audio/dia28_utt1.mp3,sadness,"Oh, this life! Oh okay no, Chandler's is worse.",negative
+316,data/MELD.Raw/val_audio/dia28_utt2.mp3,joy,"Man, it must be so cool remembering stuff like that! I don't have any past life memories.",positive
+317,data/MELD.Raw/val_audio/dia28_utt3.mp3,neutral,Of course you don't sweetie. You're brand new.,neutral
+318,data/MELD.Raw/val_audio/dia28_utt4.mp3,neutral,I know Monica's worst Thanksgiving.,neutral
+319,data/MELD.Raw/val_audio/dia28_utt5.mp3,sadness,"Oh, let's not tell this story.",negative
+320,data/MELD.Raw/val_audio/dia28_utt6.mp3,sadness,"Oh, come on!",negative
+321,data/MELD.Raw/val_audio/dia28_utt7.mp3,joy,"Oh no, I know! I know! It's the one where Joey got Monica's turkey stuck on his head!",positive
+322,data/MELD.Raw/val_audio/dia28_utt8.mp3,surprise,What?! Joey got a turkey stuck on his head?!,positive
+323,data/MELD.Raw/val_audio/dia28_utt9.mp3,neutral,"Hey, it's not like it sounds.",neutral
+324,data/MELD.Raw/val_audio/dia28_utt10.mp3,neutral,It's,neutral
+325,data/MELD.Raw/val_audio/dia29_utt0.mp3,anger,"Wendy, we had a deal!  Yeah, you promised! Wendy! Wendy! Wendy!",negative
+326,data/MELD.Raw/val_audio/dia29_utt1.mp3,neutral,Who was that?,neutral
+327,data/MELD.Raw/val_audio/dia29_utt2.mp3,sadness,Wendy bailed. I have no waitress.,negative
+328,data/MELD.Raw/val_audio/dia29_utt3.mp3,sadness,Oh... that's too bad. Bye bye.,negative
+329,data/MELD.Raw/val_audio/dia29_utt4.mp3,neutral,Ten dollars an hour.,neutral
+330,data/MELD.Raw/val_audio/dia29_utt5.mp3,neutral,No.,neutral
+331,data/MELD.Raw/val_audio/dia29_utt6.mp3,neutral,Twelve dollars an hour.,neutral
+332,data/MELD.Raw/val_audio/dia29_utt7.mp3,neutral,"Mon. I wish I could, but I've made plans to walk around.",neutral
+333,data/MELD.Raw/val_audio/dia29_utt8.mp3,anger,"You know, Rachel, when you ran out of your wedding, I was there for you.",negative
+334,data/MELD.Raw/val_audio/dia29_utt9.mp3,anger,"I put a roof over your head, and if that means nothing to you...  twenty dollars an hour.",negative
+335,data/MELD.Raw/val_audio/dia29_utt10.mp3,joy,Done.,positive
+336,data/MELD.Raw/val_audio/dia30_utt0.mp3,fear,"The reactors gonna blow in three seconds, were never gonna make it!",negative
+337,data/MELD.Raw/val_audio/dia30_utt1.mp3,fear,Youve got to get out of here! Save yourself!,negative
+338,data/MELD.Raw/val_audio/dia30_utt2.mp3,fear,No! I wont leave you!,negative
+339,data/MELD.Raw/val_audio/dia30_utt3.mp3,sadness,"Dont worry about me, Im a robot! Im just a machine!!",negative
+340,data/MELD.Raw/val_audio/dia30_utt4.mp3,anger,No youre not! Not to me!,negative
+341,data/MELD.Raw/val_audio/dia30_utt5.mp3,surprise,Oh my God.,positive
+342,data/MELD.Raw/val_audio/dia30_utt6.mp3,neutral,What?,neutral
+343,data/MELD.Raw/val_audio/dia30_utt7.mp3,neutral,I am,neutral
+344,data/MELD.Raw/val_audio/dia30_utt8.mp3,joy,"Yeah, youre great! Okay, lets take it from",positive
+345,data/MELD.Raw/val_audio/dia30_utt9.mp3,joy,"No, I mean I was really acting my ass off.",positive
+346,data/MELD.Raw/val_audio/dia30_utt10.mp3,joy,"Yeah, I thought I was pretty good too.",positive
+347,data/MELD.Raw/val_audio/dia30_utt11.mp3,neutral,"Oh yeah, youre solid. Yeah, youre just no me.",neutral
+348,data/MELD.Raw/val_audio/dia30_utt12.mp3,neutral,Yknow what? I think thats enough for now. Yeah. I dont want to be over rehearsed.,neutral
+349,data/MELD.Raw/val_audio/dia30_utt13.mp3,anger,Fine!,negative
+350,data/MELD.Raw/val_audio/dia30_utt14.mp3,anger,Ill do it without you!,negative
+351,data/MELD.Raw/val_audio/dia30_utt15.mp3,anger,I dont need you or anybody else!,negative
+352,data/MELD.Raw/val_audio/dia30_utt16.mp3,anger,Im gonna make it on my own!,negative
+353,data/MELD.Raw/val_audio/dia30_utt17.mp3,anger,Youll see!!,negative
+354,data/MELD.Raw/val_audio/dia30_utt18.mp3,neutral,Youll,neutral
+355,data/MELD.Raw/val_audio/dia31_utt0.mp3,sadness,I can't believe that Ross is gone. It is just so sad.,negative
+356,data/MELD.Raw/val_audio/dia31_utt1.mp3,surprise,I didn't know Ross and you were so close.,negative
+357,data/MELD.Raw/val_audio/dia31_utt2.mp3,sadness,We weren't but we had one class together. He was such a great    guy and he talked so passionately about science. I always remembered him.,negative
+358,data/MELD.Raw/val_audio/dia31_utt3.mp3,neutral,I'm sure that would mean a lot to him.,neutral
+359,data/MELD.Raw/val_audio/dia31_utt4.mp3,neutral,"And if heaven has a    door, I'm sure he's pressing his ear up against it and listening intently.",neutral
+360,data/MELD.Raw/val_audio/dia31_utt5.mp3,sadness,I thought so many times about calling him and asking him out.    I guess I really missed my chance.,negative
+361,data/MELD.Raw/val_audio/dia31_utt6.mp3,joy,But you didn't!,positive
+362,data/MELD.Raw/val_audio/dia31_utt7.mp3,joy,I'm still alive!!,positive
+363,data/MELD.Raw/val_audio/dia31_utt8.mp3,joy,"Kori, I know this is a big surprise for you.",positive
+364,data/MELD.Raw/val_audio/dia31_utt9.mp3,joy,It's a long story but the things    you just said really made my day!,positive
+365,data/MELD.Raw/val_audio/dia31_utt10.mp3,joy,"I mean, the fact that you are here means more    to me than if this room were filled with people!",positive
+366,data/MELD.Raw/val_audio/dia31_utt11.mp3,anger,"You sick freak, who does that? I can't believe I had a crush on    you!",negative
+367,data/MELD.Raw/val_audio/dia31_utt12.mp3,joy,Did you hear that? Kori Weston had a crush on me!!,positive
+368,data/MELD.Raw/val_audio/dia32_utt0.mp3,neutral,Well do a quick check.,neutral
+369,data/MELD.Raw/val_audio/dia32_utt1.mp3,neutral,Okay.,neutral
+370,data/MELD.Raw/val_audio/dia32_utt2.mp3,surprise,"So, eight days late huh?",positive
+371,data/MELD.Raw/val_audio/dia32_utt3.mp3,neutral,Yeah.,neutral
+372,data/MELD.Raw/val_audio/dia32_utt4.mp3,neutral,You must be a little uncomfortable.,neutral
+373,data/MELD.Raw/val_audio/dia32_utt5.mp3,neutral,"Eh, just a tad.",neutral
+374,data/MELD.Raw/val_audio/dia32_utt6.mp3,neutral,"Youre about 80 percent effaced, so youre on your way.",neutral
+375,data/MELD.Raw/val_audio/dia32_utt7.mp3,neutral,It still could last a little while longer.,neutral
+376,data/MELD.Raw/val_audio/dia32_utt8.mp3,neutral,If youre anxious there are a few ways to help things along.,neutral
+377,data/MELD.Raw/val_audio/dia32_utt9.mp3,anger,Do them!!,negative
+378,data/MELD.Raw/val_audio/dia32_utt10.mp3,neutral,"Actually, theyre things you can do. Just some home remedies, but in my experience Ive found that some of them are quite effective.",neutral
+379,data/MELD.Raw/val_audio/dia32_utt11.mp3,neutral,"Well, we are ready to try anything.",neutral
+380,data/MELD.Raw/val_audio/dia32_utt12.mp3,neutral,"Okay, theres an herbal tea you can drink.",neutral
+381,data/MELD.Raw/val_audio/dia32_utt13.mp3,neutral,Okay.,neutral
+382,data/MELD.Raw/val_audio/dia33_utt0.mp3,sadness,What is wrong with Emma?,negative
+383,data/MELD.Raw/val_audio/dia33_utt1.mp3,neutral,"Oh she misunderstood, she thought she was moving to Tulsa.",neutral
+384,data/MELD.Raw/val_audio/dia34_utt0.mp3,neutral,Anytime you're ready.,neutral
+385,data/MELD.Raw/val_audio/dia34_utt1.mp3,neutral,"Ok, ok, here we go.",neutral
+386,data/MELD.Raw/val_audio/dia34_utt2.mp3,neutral,"Ok, where am I talking to, here?",neutral
+387,data/MELD.Raw/val_audio/dia34_utt3.mp3,neutral,"I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but...",neutral
+388,data/MELD.Raw/val_audio/dia34_utt4.mp3,neutral,Just aim for the bump.,neutral
+389,data/MELD.Raw/val_audio/dia34_utt5.mp3,neutral,"Ok, ok, ok, ok, here goes.",neutral
+390,data/MELD.Raw/val_audio/dia34_utt6.mp3,fear,"You know, I, you know, can't do this.",negative
+391,data/MELD.Raw/val_audio/dia34_utt7.mp3,disgust,"Uh, this is too weird.",negative
+392,data/MELD.Raw/val_audio/dia34_utt8.mp3,sadness,I feel stupid.,negative
+393,data/MELD.Raw/val_audio/dia34_utt9.mp3,neutral,"So don't do it, it's fine. You don't have to do it just because Susan does it.",neutral
+394,data/MELD.Raw/val_audio/dia34_utt10.mp3,joy,"Hello, baby. Hello, hello.",positive
+395,data/MELD.Raw/val_audio/dia35_utt0.mp3,neutral,"Oh, hi. Its Mark.",neutral
+396,data/MELD.Raw/val_audio/dia36_utt0.mp3,fear,Easy. Easy. You have to go to the hospital. Okay?,negative
+397,data/MELD.Raw/val_audio/dia36_utt1.mp3,neutral,"Okay, I do.",neutral
+398,data/MELD.Raw/val_audio/dia36_utt2.mp3,neutral,Okay.,neutral
+399,data/MELD.Raw/val_audio/dia36_utt3.mp3,neutral,I really do.,neutral
+400,data/MELD.Raw/val_audio/dia36_utt4.mp3,neutral,"Okay, Im gonna get your coat and then Ill-Ill put you in a cab.",neutral
+401,data/MELD.Raw/val_audio/dia36_utt5.mp3,sadness,"Okay. Oh wait, wait-wait, youre not gonna come with me?",negative
+402,data/MELD.Raw/val_audio/dia36_utt6.mp3,surprise,Of course I am. I just have to make a call.,positive
+403,data/MELD.Raw/val_audio/dia36_utt7.mp3,neutral,Okay.,neutral
+404,data/MELD.Raw/val_audio/dia36_utt8.mp3,neutral,Okay?,neutral
+405,data/MELD.Raw/val_audio/dia36_utt9.mp3,surprise,Thank you.  Oww!!!! God!,negative
+406,data/MELD.Raw/val_audio/dia36_utt10.mp3,fear,"What?! I wh-, whats wrong?",negative
+407,data/MELD.Raw/val_audio/dia36_utt11.mp3,disgust,"Im sorry, I just cant go to the hospital lookin like this.",negative
+408,data/MELD.Raw/val_audio/dia37_utt0.mp3,neutral,"Pete Becker is circling the ring now. It looks like, hes just trying to feel him out. Oh, Bruiser is just...",neutral
+409,data/MELD.Raw/val_audio/dia37_utt1.mp3,fear,"Run! Run you crazy, rich freak!",negative
+410,data/MELD.Raw/val_audio/dia37_utt2.mp3,fear,"Oh, I cant watch this.",negative
+411,data/MELD.Raw/val_audio/dia37_utt3.mp3,surprise,"Check it out, hes winning!  Petes winning!",positive
+412,data/MELD.Raw/val_audio/dia37_utt4.mp3,surprise,Really?!,positive
+413,data/MELD.Raw/val_audio/dia37_utt5.mp3,fear,No-o-o!!,negative
+414,data/MELD.Raw/val_audio/dia37_utt6.mp3,fear,"Uh-oh, Bruiser has Becker on the canvas and is going for his favourite area.",negative
+415,data/MELD.Raw/val_audio/dia37_utt7.mp3,disgust,Oh! Oh!,negative
+416,data/MELD.Raw/val_audio/dia37_utt8.mp3,surprise,"Wait, if thats his favourite area, why is he being so mean to it?",negative
+417,data/MELD.Raw/val_audio/dia37_utt9.mp3,surprise,"Well, this is ironic.",negative
+418,data/MELD.Raw/val_audio/dia37_utt10.mp3,neutral,"Of your last two boyfriends, Richard didnt want to have kids, and from the looks of it, now Pete cant.",neutral
+419,data/MELD.Raw/val_audio/dia38_utt0.mp3,anger,"Dude, you dont have to brag! We got nothing here!!",negative
+420,data/MELD.Raw/val_audio/dia39_utt0.mp3,neutral,Should we tell Rachel theres an empty private room right next door to hers?,neutral
+421,data/MELD.Raw/val_audio/dia39_utt1.mp3,joy,"We could, or we can have sex in it.",positive
+422,data/MELD.Raw/val_audio/dia39_utt2.mp3,joy,"Well let me think about that, while I remove my pants!",positive
+423,data/MELD.Raw/val_audio/dia40_utt0.mp3,surprise,I thought I was a complete idiot.,positive
+424,data/MELD.Raw/val_audio/dia40_utt1.mp3,neutral,"Hey, Im with you. He even asked me if I thought youd go out with him.",neutral
+425,data/MELD.Raw/val_audio/dia40_utt2.mp3,disgust,"Oh! Oh, I think Im gonna throw up a little bit. What did you say?",negative
+426,data/MELD.Raw/val_audio/dia40_utt3.mp3,neutral,I said no.,neutral
+427,data/MELD.Raw/val_audio/dia40_utt4.mp3,surprise,What?!,positive
+428,data/MELD.Raw/val_audio/dia40_utt5.mp3,surprise,What? II just figured since youre pregnant youre not gonna be seeing people.,negative
+429,data/MELD.Raw/val_audio/dia40_utt6.mp3,anger,"Okay Joey, first of all Kash Ford is not people. Second of all, what did he say when you told him I was pregnant?",negative
+430,data/MELD.Raw/val_audio/dia40_utt7.mp3,neutral,I didnt tell him. I didnt know if you were telling people. This is back when I thought Kash was still people.,neutral
+431,data/MELD.Raw/val_audio/dia40_utt8.mp3,fear,"Good-good, dont tell him. Dont tell him. Just have him call me okay?",negative
+432,data/MELD.Raw/val_audio/dia40_utt9.mp3,sadness,"Rach look, I really dont think thats such a great",negative
+433,data/MELD.Raw/val_audio/dia40_utt10.mp3,joy,"Okay, you go do it! Ill come back to that set! Ill meet more actors! Ill meet em all!",positive
+434,data/MELD.Raw/val_audio/dia41_utt0.mp3,neutral,"Ohh, here you are. I was looking for you before. Joshuas gone so you and Emily are free to go.",neutral
+435,data/MELD.Raw/val_audio/dia41_utt1.mp3,neutral,Thats okay.,neutral
+436,data/MELD.Raw/val_audio/dia41_utt2.mp3,neutral,"Shes still in there enjoying her fake party and uh, its too late to do any of the things I had planned, so",neutral
+437,data/MELD.Raw/val_audio/dia42_utt0.mp3,anger,Ah! Ah! I forgot my jacket!,negative
+438,data/MELD.Raw/val_audio/dia42_utt1.mp3,anger,You tell them to wait!,negative
+439,data/MELD.Raw/val_audio/dia42_utt2.mp3,neutral,Okay. Wait! Wait!,neutral
+440,data/MELD.Raw/val_audio/dia42_utt3.mp3,neutral,Emily.,neutral
+441,data/MELD.Raw/val_audio/dia42_utt4.mp3,anger,Oh no-no-no! Oh-no!  No! No! Emily!,negative
+442,data/MELD.Raw/val_audio/dia43_utt0.mp3,neutral,Hey. Call me when you get there. Okay?,neutral
+443,data/MELD.Raw/val_audio/dia43_utt1.mp3,neutral,Okay.,neutral
+444,data/MELD.Raw/val_audio/dia44_utt0.mp3,sadness,I know. You're the guy who wouldn't chip in for the handyman.,negative
+445,data/MELD.Raw/val_audio/dia44_utt1.mp3,anger,Nevermind!,negative
+446,data/MELD.Raw/val_audio/dia44_utt2.mp3,neutral,"No, I-I actually thought it was unfair the way everyone reacted. I mean you had just moved in.",neutral
+447,data/MELD.Raw/val_audio/dia44_utt3.mp3,neutral,Jen.,neutral
+448,data/MELD.Raw/val_audio/dia44_utt4.mp3,neutral,"Jen, I know this may sound a little But uh, would you maybe wanna grab a cup of coffee sometime, or",neutral
+449,data/MELD.Raw/val_audio/dia44_utt5.mp3,joy,Sure! That would be nice.,positive
+450,data/MELD.Raw/val_audio/dia44_utt6.mp3,neutral,Umm?,neutral
+451,data/MELD.Raw/val_audio/dia44_utt7.mp3,joy,Oh! My number is on there.  Give me a call.,positive
+452,data/MELD.Raw/val_audio/dia44_utt8.mp3,neutral,I will give you a call.,neutral
+453,data/MELD.Raw/val_audio/dia44_utt9.mp3,neutral,I'll see you later.,neutral
+454,data/MELD.Raw/val_audio/dia44_utt10.mp3,joy,Okay!,positive
+455,data/MELD.Raw/val_audio/dia44_utt11.mp3,neutral,I forgot my paper.,neutral
+456,data/MELD.Raw/val_audio/dia45_utt0.mp3,neutral,"Here we go. Okay, brace yourselves.",neutral
+457,data/MELD.Raw/val_audio/dia45_utt1.mp3,neutral,What?,neutral
+458,data/MELD.Raw/val_audio/dia45_utt2.mp3,neutral,Okay.,neutral
+459,data/MELD.Raw/val_audio/dia45_utt3.mp3,surprise,Ow!,positive
+460,data/MELD.Raw/val_audio/dia45_utt4.mp3,neutral,Arent you gonna go?,neutral
+461,data/MELD.Raw/val_audio/dia45_utt5.mp3,neutral,No. Thank you.,neutral
+462,data/MELD.Raw/val_audio/dia45_utt6.mp3,neutral,"No, Rachel never pees in public restrooms.",neutral
+463,data/MELD.Raw/val_audio/dia45_utt7.mp3,neutral,"Well, they never have any paper in there y'know. So my rule is no tissue, no tuschy.  Well, if everybodys going.",neutral
+464,data/MELD.Raw/val_audio/dia45_utt8.mp3,neutral,"No, y'know what dont close it  cause the... keys...are in there.",neutral
+465,data/MELD.Raw/val_audio/dia45_utt9.mp3,fear,"Oh, no-no-no-no-no-no!!",negative
+466,data/MELD.Raw/val_audio/dia45_utt10.mp3,neutral,Whats going on?,neutral
+467,data/MELD.Raw/val_audio/dia45_utt11.mp3,fear,My lighters in there!,negative
+468,data/MELD.Raw/val_audio/dia46_utt0.mp3,neutral,I promise.,neutral
+469,data/MELD.Raw/val_audio/dia46_utt1.mp3,neutral,"Although, dont feel like you cant visit.",neutral
+470,data/MELD.Raw/val_audio/dia46_utt2.mp3,neutral,"Hey, is, is, is Chandler here?",neutral
+471,data/MELD.Raw/val_audio/dia46_utt3.mp3,neutral,"No, no hes not.",neutral
+472,data/MELD.Raw/val_audio/dia46_utt4.mp3,surprise,"You guys, Joey just saw Janice kissing her ex-husband.",negative
+473,data/MELD.Raw/val_audio/dia46_utt5.mp3,surprise,"What?  So what are you going to do? I mean how, how are you going to tell Chandler?",negative
+474,data/MELD.Raw/val_audio/dia46_utt6.mp3,neutral,"Well, I was thinking about that and I, I think the best way would be, to not.",neutral
+475,data/MELD.Raw/val_audio/dia46_utt7.mp3,neutral,"Joey, you cant keep this to yourself, if you know about this, you have to tell him.",neutral
+476,data/MELD.Raw/val_audio/dia46_utt8.mp3,fear,"Itll kill him. I mean itll, itll just kill him.",negative
+477,data/MELD.Raw/val_audio/dia46_utt9.mp3,neutral,"Well, you could wait til I go to the dentist, maybe",neutral
+478,data/MELD.Raw/val_audio/dia47_utt0.mp3,neutral,"Hey, what are you doing here?",neutral
+479,data/MELD.Raw/val_audio/dia47_utt1.mp3,neutral,"Well, oh just ah, I was just wondering, when you and I split up, did you get the tape that was half the last episode of",neutral
+480,data/MELD.Raw/val_audio/dia47_utt2.mp3,neutral,"Ah yeah, but now its Susan and me in Mexico and the hostages coming home.",neutral
+481,data/MELD.Raw/val_audio/dia47_utt3.mp3,neutral,Wheres Ben?,neutral
+482,data/MELD.Raw/val_audio/dia47_utt4.mp3,neutral,Hes sleeping.,neutral
+483,data/MELD.Raw/val_audio/dia47_utt5.mp3,surprise,"Ahh.  Ooh, is this a ah, is this a bad time?",positive
+484,data/MELD.Raw/val_audio/dia47_utt6.mp3,joy,"Umm, yeah, actually, Susans gonna be home any minute, its kinda an anniversary.",positive
+485,data/MELD.Raw/val_audio/dia47_utt7.mp3,surprise,"Oh! I thought you guys got married in uh, January?",negative
+486,data/MELD.Raw/val_audio/dia47_utt8.mp3,neutral,Its not that kind of anniversary.,neutral
+487,data/MELD.Raw/val_audio/dia47_utt9.mp3,surprise,Ah!  Oh.,negative
+488,data/MELD.Raw/val_audio/dia47_utt10.mp3,neutral,Sooo!! Anyway...,neutral
+489,data/MELD.Raw/val_audio/dia48_utt0.mp3,neutral,Where are we gonna find a tiny little hat?,neutral
+490,data/MELD.Raw/val_audio/dia48_utt1.mp3,joy,"Oh, oh, oh, Ill get Rainy Day Bear!!",positive
+491,data/MELD.Raw/val_audio/dia48_utt2.mp3,joy,"Because hell know what to do?  Oh my God, youre a genius!",positive
+492,data/MELD.Raw/val_audio/dia48_utt3.mp3,fear,"Oh God, oh God, its sowed on though.",negative
+493,data/MELD.Raw/val_audio/dia48_utt4.mp3,neutral,Give it. Give it.,neutral
+494,data/MELD.Raw/val_audio/dia48_utt5.mp3,neutral,Okay.,neutral
+495,data/MELD.Raw/val_audio/dia48_utt6.mp3,surprise,Oh!!,negative
+496,data/MELD.Raw/val_audio/dia48_utt7.mp3,sadness,"Oh, its just like a bloodbath in here today.",negative
+497,data/MELD.Raw/val_audio/dia49_utt0.mp3,anger,Please. This is so your fault.,negative
+498,data/MELD.Raw/val_audio/dia49_utt1.mp3,surprise,"How, how is this my fault?",negative
+499,data/MELD.Raw/val_audio/dia49_utt2.mp3,anger,"Look, Carol never threw me out of a room before you came along.",negative
+500,data/MELD.Raw/val_audio/dia49_utt3.mp3,anger,"Yeah? Well, there's a lot of things Carol never did before I came along.",negative
+501,data/MELD.Raw/val_audio/dia49_utt6.mp3,anger,"Hey, hey, ok, all right, that's it!",negative
+502,data/MELD.Raw/val_audio/dia49_utt7.mp3,anger,Get in here.,negative
+503,data/MELD.Raw/val_audio/dia49_utt8.mp3,neutral,Come on.,neutral
+504,data/MELD.Raw/val_audio/dia49_utt9.mp3,anger,"My god, you guys, I don't believe you.",negative
+505,data/MELD.Raw/val_audio/dia49_utt10.mp3,anger,There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing.,negative
+506,data/MELD.Raw/val_audio/dia49_utt11.mp3,anger,"So just stop all the yelling, just stop it!",negative
+507,data/MELD.Raw/val_audio/dia49_utt12.mp3,neutral,"Yeah, Susan.",neutral
+508,data/MELD.Raw/val_audio/dia49_utt13.mp3,anger,"Don't make me do this again, I don't like my voice like this.",negative
+509,data/MELD.Raw/val_audio/dia49_utt14.mp3,neutral,"Ok, who wants to hear something ironic?",neutral
+510,data/MELD.Raw/val_audio/dia50_utt0.mp3,surprise,"Oh! Here it is!  Ooh, Joey! Why did you sign it, ""Son of a bitch?""",negative
+511,data/MELD.Raw/val_audio/dia50_utt1.mp3,surprise,I didnt do that! Who wouldve done that?!,negative
+512,data/MELD.Raw/val_audio/dia50_utt2.mp3,anger,Son of a bitch!,negative
+513,data/MELD.Raw/val_audio/dia50_utt3.mp3,neutral,"Okay, maybe ask this guy.",neutral
+514,data/MELD.Raw/val_audio/dia51_utt0.mp3,neutral,"Oh, did I not mention? Carl is a guy I hired to be my identical twin for a medical research project.",neutral
+515,data/MELD.Raw/val_audio/dia51_utt1.mp3,joy,"Yknow sometimes the good ideas are just right in front of you, arent they?",positive
+516,data/MELD.Raw/val_audio/dia51_utt2.mp3,neutral,"Okay, I know it sounds crazy, but I think it might work. Yknow? The only problem is, Carls acting is",neutral
+517,data/MELD.Raw/val_audio/dia51_utt3.mp3,neutral,The,neutral
+518,data/MELD.Raw/val_audio/dia51_utt4.mp3,neutral,"Yeah, hes the reason I didnt get that big",neutral
+519,data/MELD.Raw/val_audio/dia51_utt5.mp3,neutral,"Hey, uh can I get a little piece of that cake?",neutral
+520,data/MELD.Raw/val_audio/dia51_utt6.mp3,anger,Pizza!! We like Pizza!! Get out!!!,negative
+521,data/MELD.Raw/val_audio/dia52_utt0.mp3,neutral,"Hey Monica, theres a customer who wants to complement the chef, should I let him in?",neutral
+522,data/MELD.Raw/val_audio/dia52_utt1.mp3,joy,"Sure, I love this part!",positive
+523,data/MELD.Raw/val_audio/dia52_utt2.mp3,neutral,Come on in.,neutral
+524,data/MELD.Raw/val_audio/dia53_utt0.mp3,joy,"Really? In the moment, I really wanted to kiss you too. In the moment.",positive
+525,data/MELD.Raw/val_audio/dia53_utt1.mp3,neutral,"In the moment, yeah.",neutral
+526,data/MELD.Raw/val_audio/dia53_utt2.mp3,joy,But only in the moment. So do ya wanna kiss again?,positive
+527,data/MELD.Raw/val_audio/dia53_utt3.mp3,neutral,"Sure, New Years Eve is only two weeks away. Can you wait?",neutral
+528,data/MELD.Raw/val_audio/dia53_utt4.mp3,neutral,No.,neutral
+529,data/MELD.Raw/val_audio/dia53_utt5.mp3,neutral,Me neither.,neutral
+530,data/MELD.Raw/val_audio/dia53_utt6.mp3,neutral,"3, 2,",neutral
+531,data/MELD.Raw/val_audio/dia53_utt7.mp3,joy,"Joey, you dont have to count down every time we kiss.",positive
+532,data/MELD.Raw/val_audio/dia53_utt8.mp3,joy,"Uh, yeah, okay. Except I sorta felt like I needed a couple of seconds to get ready.",positive
+533,data/MELD.Raw/val_audio/dia54_utt0.mp3,neutral,Alright. Phoebe?,neutral
+534,data/MELD.Raw/val_audio/dia54_utt1.mp3,neutral,"Okay, okay.",neutral
+535,data/MELD.Raw/val_audio/dia54_utt2.mp3,joy,"If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!",positive
+536,data/MELD.Raw/val_audio/dia54_utt3.mp3,neutral,"Yeah, see.. you took mine. Chandler, what about you?",neutral
+537,data/MELD.Raw/val_audio/dia54_utt4.mp3,neutral,"Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever.",neutral
+538,data/MELD.Raw/val_audio/dia54_utt5.mp3,disgust,"See, there's always one guy.  ""If I had a wish, I'd wish for three more wishes.""",negative
+539,data/MELD.Raw/val_audio/dia54_utt6.mp3,neutral,"Hey Joey. Hi. Hey, buddy.",neutral
+540,data/MELD.Raw/val_audio/dia54_utt7.mp3,neutral,"Hey, Joey, what would you do if you were omnipotent?",neutral
+541,data/MELD.Raw/val_audio/dia54_utt8.mp3,sadness,Probably kill myself!,negative
+542,data/MELD.Raw/val_audio/dia54_utt9.mp3,surprise,..Excuse me?,positive
+543,data/MELD.Raw/val_audio/dia54_utt10.mp3,sadness,"Hey, if Little Joey's dead, then I got no reason to live!",negative
+544,data/MELD.Raw/val_audio/dia54_utt11.mp3,surprise,"Joey, uh-",positive
+545,data/MELD.Raw/val_audio/dia54_utt12.mp3,neutral,You,neutral
+546,data/MELD.Raw/val_audio/dia55_utt0.mp3,sadness,Im sorry.,negative
+547,data/MELD.Raw/val_audio/dia56_utt0.mp3,anger,"Joey, onstage!",negative
+548,data/MELD.Raw/val_audio/dia56_utt1.mp3,sadness,Well can you at least stay to the end of the play?,negative
+549,data/MELD.Raw/val_audio/dia56_utt2.mp3,sadness,"I mean, Ill go to the airport with ya, I-I wanna say good bye.",negative
+550,data/MELD.Raw/val_audio/dia56_utt3.mp3,neutral,Where are you Vic?,neutral
+551,data/MELD.Raw/val_audio/dia56_utt4.mp3,sadness,Flights in an hour. I-I gotta go.,negative
+552,data/MELD.Raw/val_audio/dia56_utt5.mp3,anger,Vic! Vic!,negative
+553,data/MELD.Raw/val_audio/dia56_utt6.mp3,anger,In a minute!!,negative
+554,data/MELD.Raw/val_audio/dia56_utt7.mp3,sadness,So this is it? Victor?,negative
+555,data/MELD.Raw/val_audio/dia56_utt8.mp3,sadness,"Yeah, I guess it is.",negative
+556,data/MELD.Raw/val_audio/dia56_utt9.mp3,sadness,"Listen, I ah, I gotta say good bye, and-and I gotta say it quick cause this is killing me.",negative
+557,data/MELD.Raw/val_audio/dia56_utt10.mp3,sadness,"One thing you gotta know, is that I will never forget you.",negative
+558,data/MELD.Raw/val_audio/dia56_utt11.mp3,sadness,"But, youve got things you have to do now, and so do I.",negative
+559,data/MELD.Raw/val_audio/dia56_utt12.mp3,sadness,"And so Im gonna get on this spaceship,  and Im gonna go to Blargon 7 in search of alternative fuels.",negative
+560,data/MELD.Raw/val_audio/dia56_utt13.mp3,sadness,"But when I return, 200 years from now, youll be long gone.",negative
+561,data/MELD.Raw/val_audio/dia56_utt14.mp3,neutral,But I wont have aged at all.,neutral
+562,data/MELD.Raw/val_audio/dia56_utt15.mp3,neutral,"So you tell your great-great-granddaughter to look me up, because Adrienne, baby, Im gonna want to meet her.",neutral
+563,data/MELD.Raw/val_audio/dia56_utt16.mp3,sadness,"So long, Vic!",negative
+564,data/MELD.Raw/val_audio/dia57_utt0.mp3,neutral,Nooo Way! The most romantic song ever is,neutral
+565,data/MELD.Raw/val_audio/dia57_utt1.mp3,neutral,"See, I-I think that one that Elton John wrote for, um, that guy on",neutral
+566,data/MELD.Raw/val_audio/dia57_utt2.mp3,neutral,"What song was that, Pheebs?",neutral
+567,data/MELD.Raw/val_audio/dia57_utt3.mp3,joy,Hi Monica!,positive
+568,data/MELD.Raw/val_audio/dia57_utt4.mp3,joy,Hey Mon!,positive
+569,data/MELD.Raw/val_audio/dia57_utt5.mp3,joy,Hey Mon!,positive
+570,data/MELD.Raw/val_audio/dia57_utt6.mp3,surprise,"Oh my God, has she slept at all?",negative
+571,data/MELD.Raw/val_audio/dia57_utt7.mp3,neutral,Nope.,neutral
+572,data/MELD.Raw/val_audio/dia57_utt8.mp3,neutral,"No, it's been three nights in a row.",neutral
+573,data/MELD.Raw/val_audio/dia57_utt9.mp3,neutral,"Yeah, she finally stopped crying yesterday, but then she found one of Richard's cigar butts out on the terrace, so.",neutral
+574,data/MELD.Raw/val_audio/dia57_utt10.mp3,neutral,"Oh, okay that explains it.",neutral
+575,data/MELD.Raw/val_audio/dia57_utt11.mp3,neutral,"I got a call at two in the morning, but all I could hear was, like, this high squeaky sound, so I thought okay its like a mouse or a opossum.",neutral
+576,data/MELD.Raw/val_audio/dia57_utt12.mp3,joy,But then I realized where would a mouse or a opossum get the money to make the phone call.,positive
+577,data/MELD.Raw/val_audio/dia58_utt0.mp3,neutral,"So uh, man, are you gonna go to the play with me tonight?",neutral
+578,data/MELD.Raw/val_audio/dia58_utt1.mp3,disgust,"Yknow what, I dont know how comfortable I am going to see how hot the sex is between some guy and your girlfriend.",negative
+579,data/MELD.Raw/val_audio/dia58_utt2.mp3,neutral,"Yeah, I know but",neutral
+580,data/MELD.Raw/val_audio/dia58_utt3.mp3,neutral,"Oh no-no-no, Im there.",neutral
+581,data/MELD.Raw/val_audio/dia58_utt4.mp3,surprise,Hey!,positive
+582,data/MELD.Raw/val_audio/dia58_utt5.mp3,joy,Hey Mon! Want some pancakes?,positive
+583,data/MELD.Raw/val_audio/dia58_utt6.mp3,surprise,You made pancakes?,positive
+584,data/MELD.Raw/val_audio/dia58_utt7.mp3,joy,Yep! Grab a plate.,positive
+585,data/MELD.Raw/val_audio/dia58_utt8.mp3,neutral,"No-no, stay right there.  Gettin closer.",neutral
+586,data/MELD.Raw/val_audio/dia58_utt9.mp3,neutral,"Okay, okay, but dont worry, because we also have cereals, muffins, waffles,",neutral
+587,data/MELD.Raw/val_audio/dia58_utt10.mp3,neutral,"Listen also were uh, were watching the game here Saturday night, if people want to come over.",neutral
+588,data/MELD.Raw/val_audio/dia58_utt11.mp3,joy,Oh yeah!,positive
+589,data/MELD.Raw/val_audio/dia59_utt0.mp3,neutral,"Yes, if the foxhole was lined with sandwiches.",neutral
+590,data/MELD.Raw/val_audio/dia59_utt1.mp3,neutral,"Yeah, hero sandwiches.",neutral
+591,data/MELD.Raw/val_audio/dia59_utt2.mp3,neutral,Well you all know that I'm a pacifist so I'm not interested in war in any way.,neutral
+592,data/MELD.Raw/val_audio/dia59_utt3.mp3,neutral,"When the revolution comes, I will have to destroy you all.",neutral
+593,data/MELD.Raw/val_audio/dia59_utt4.mp3,neutral,Not you Joey.,neutral
+594,data/MELD.Raw/val_audio/dia60_utt0.mp3,surprise,Oh my good God.,positive
+595,data/MELD.Raw/val_audio/dia60_utt1.mp3,neutral,"Hey! Continuing the countdown of your favorite meals. Tonight, No. 3, macaroni and cheese with cut up hot dogs.",neutral
+596,data/MELD.Raw/val_audio/dia60_utt2.mp3,anger,"Look, you have done enough! Okay? You have to stop this now.",negative
+597,data/MELD.Raw/val_audio/dia60_utt3.mp3,joy,"I will! But not tonight. For dinner music, I thought we could listen to that tape you made me.",positive
+598,data/MELD.Raw/val_audio/dia60_utt4.mp3,neutral,"Oh, the mixed tape.",neutral
+599,data/MELD.Raw/val_audio/dia60_utt5.mp3,joy,The Way You Look Tonight,positive
+600,data/MELD.Raw/val_audio/dia60_utt6.mp3,joy,You are just the sweetest.,positive
+601,data/MELD.Raw/val_audio/dia61_utt0.mp3,joy,Hey!,positive
+602,data/MELD.Raw/val_audio/dia61_utt1.mp3,joy,Hey!,positive
+603,data/MELD.Raw/val_audio/dia61_utt2.mp3,neutral,"Hey, guess what Im doing tonight.",neutral
+604,data/MELD.Raw/val_audio/dia61_utt3.mp3,neutral,What?,neutral
+605,data/MELD.Raw/val_audio/dia61_utt4.mp3,neutral,Im checking out the restaurant with Pete.,neutral
+606,data/MELD.Raw/val_audio/dia61_utt5.mp3,joy,"Ohh, Monica, I am so excited for you.",positive
+607,data/MELD.Raw/val_audio/dia62_utt0.mp3,neutral,"So honey this uh, this threesome thing umm, I mean how-how are you gonna start to find",neutral
+608,data/MELD.Raw/val_audio/dia62_utt1.mp3,joy,"Ooh, actually Ive been making a list of all the women I know who might be into doing this!",positive
+609,data/MELD.Raw/val_audio/dia62_utt2.mp3,surprise,"Oh.  Wow!  Huh.  Boy!  Well, someones been doing their homework.",positive
+610,data/MELD.Raw/val_audio/dia62_utt3.mp3,neutral,"Yeah. Ooh, and I know Gail Rosten is in there twice, but she is so",neutral
+611,data/MELD.Raw/val_audio/dia62_utt4.mp3,neutral,"Oh, I know.  Yknow, just-just talking about it is getting me kinda",neutral
+612,data/MELD.Raw/val_audio/dia62_utt5.mp3,neutral,"Oh, me too.",neutral
+613,data/MELD.Raw/val_audio/dia63_utt0.mp3,joy,"and then, we couldve gone from the ceremony to the reception with you in the sidecar!",positive
+614,data/MELD.Raw/val_audio/dia63_utt1.mp3,neutral,"Ross, it just wouldnt have been feasible.",neutral
+615,data/MELD.Raw/val_audio/dia63_utt2.mp3,anger,But having a dove place the ring on your finger wouldve been no problem?,negative
+616,data/MELD.Raw/val_audio/dia63_utt3.mp3,joy,It was really fun being married to you tonight.,positive
+617,data/MELD.Raw/val_audio/dia63_utt4.mp3,joy,"Yeah! And! And, it was the easiest 400 bucks Ive ever made.",positive
+618,data/MELD.Raw/val_audio/dia63_utt5.mp3,sadness,"Okay Ross, can I uh, can I ask you something?",negative
+619,data/MELD.Raw/val_audio/dia63_utt6.mp3,neutral,Yeah.,neutral
+620,data/MELD.Raw/val_audio/dia63_utt7.mp3,neutral,"That proposal, at the planetarium",neutral
+621,data/MELD.Raw/val_audio/dia63_utt8.mp3,sadness,"I know, I know it was stupid.",negative
+622,data/MELD.Raw/val_audio/dia63_utt9.mp3,surprise,Are you kidding?!,positive
+623,data/MELD.Raw/val_audio/dia63_utt10.mp3,joy,"With the, with the lilies, and-and the song, and the stars!",positive
+624,data/MELD.Raw/val_audio/dia63_utt11.mp3,joy,It wasreally wonderful!,positive
+625,data/MELD.Raw/val_audio/dia63_utt12.mp3,surprise,Did you just make that up?,positive
+626,data/MELD.Raw/val_audio/dia63_utt13.mp3,neutral,"No, actually I thought about it when, when we were going out.",neutral
+627,data/MELD.Raw/val_audio/dia63_utt14.mp3,neutral,"Its how I imagined I uh, I would ask you to marry me.",neutral
+628,data/MELD.Raw/val_audio/dia63_utt15.mp3,neutral,"Well, that wouldve been very hard to say no too.",neutral
+629,data/MELD.Raw/val_audio/dia63_utt16.mp3,neutral,"Its a good thing I didnt do it, because it sounds like it wouldve been a very expensive wedding.  Okay, good night",neutral
+630,data/MELD.Raw/val_audio/dia63_utt17.mp3,neutral,Goodnight,neutral
+631,data/MELD.Raw/val_audio/dia63_utt18.mp3,neutral,Even if the sidecar had a windscreen so your hair wouldnt get messed up?,neutral
+632,data/MELD.Raw/val_audio/dia63_utt19.mp3,neutral,I will think about it.,neutral
+633,data/MELD.Raw/val_audio/dia63_utt20.mp3,neutral,Thats all Im askin,neutral
+634,data/MELD.Raw/val_audio/dia64_utt0.mp3,surprise,"You guys! It was bananas, cream, and beef! I-I just cannot believe that you ate that so that I wouldnt feel bad!",positive
+635,data/MELD.Raw/val_audio/dia64_utt1.mp3,joy,"Well actually, I-I didnt eat mine. Its still in the bathroom.",positive
+636,data/MELD.Raw/val_audio/dia64_utt2.mp3,neutral,"No it isnt, I ate that.",neutral
+637,data/MELD.Raw/val_audio/dia64_utt3.mp3,neutral,Well we left ours in Monicas bedroom.,neutral
+638,data/MELD.Raw/val_audio/dia64_utt4.mp3,neutral,"Nope, got it and I got yours  too.",neutral
+639,data/MELD.Raw/val_audio/dia65_utt0.mp3,joy,And thats Im so glad theres no problem.,positive
+640,data/MELD.Raw/val_audio/dia65_utt1.mp3,neutral,"Thats fine, actually Im on the hiring committee, so therell be at least one friendly face.",neutral
+641,data/MELD.Raw/val_audio/dia65_utt2.mp3,joy,Ohh! Thats great!,positive
+642,data/MELD.Raw/val_audio/dia65_utt3.mp3,neutral,"You know, Junior Miss is where I started. Oh, I had to sleep with the",neutral
+643,data/MELD.Raw/val_audio/dia65_utt4.mp3,surprise,Really?!,positive
+644,data/MELD.Raw/val_audio/dia65_utt5.mp3,joy,No-ho-ho!,positive
+645,data/MELD.Raw/val_audio/dia65_utt6.mp3,neutral,Yeah.,neutral
+646,data/MELD.Raw/val_audio/dia65_utt7.mp3,neutral,"I mean, no-no-no-no-no, dont you worry, Im sure with your qualifications you wont need to sleep with some guy to get that job.",neutral
+647,data/MELD.Raw/val_audio/dia65_utt8.mp3,neutral,"Although, I might need some convincing.",neutral
+648,data/MELD.Raw/val_audio/dia65_utt9.mp3,fear,"Well, I, umm",negative
+649,data/MELD.Raw/val_audio/dia65_utt10.mp3,joy,"Kidding! God, I feel wild today!",positive
+650,data/MELD.Raw/val_audio/dia66_utt0.mp3,surprise,Oh my God! Chandler just left though!,negative
+651,data/MELD.Raw/val_audio/dia66_utt1.mp3,neutral,"Yeah but, maybe its not what we think. Maybe its tell Monica Im sorry Idrank the last of the milk.",neutral
+652,data/MELD.Raw/val_audio/dia66_utt2.mp3,neutral,"Or maybe he-he was writing to tell her that-that hes changed his name, yknow? Tell Monica Im sorry.",neutral
+653,data/MELD.Raw/val_audio/dia66_utt3.mp3,surprise,I think it means he freaked out and left!,negative
+654,data/MELD.Raw/val_audio/dia66_utt4.mp3,anger,Dont be so negative! Good God! Isnt it possible that Sorry is sitting in there  right now?!,negative
+655,data/MELD.Raw/val_audio/dia66_utt5.mp3,sadness,"Okay. Phoebe, I-I think Ross is right. What are we gonna do?",negative
+656,data/MELD.Raw/val_audio/dia66_utt6.mp3,neutral,"LookOkay, Im just gonnaIm gonna have to go find him and bring him back!",neutral
+657,data/MELD.Raw/val_audio/dia66_utt7.mp3,neutral,Okay?,neutral
+658,data/MELD.Raw/val_audio/dia66_utt8.mp3,neutral,"You-you make sure Monica does not find out, okay?",neutral
+659,data/MELD.Raw/val_audio/dia66_utt11.mp3,neutral,"I will, I will find him.",neutral
+660,data/MELD.Raw/val_audio/dia67_utt0.mp3,joy,Hey!,positive
+661,data/MELD.Raw/val_audio/dia67_utt1.mp3,joy,Hi! Hey!,positive
+662,data/MELD.Raw/val_audio/dia67_utt2.mp3,neutral,Do you guys know any cute guys?,neutral
+663,data/MELD.Raw/val_audio/dia67_utt3.mp3,joy,"Well, of course I do! My good friend Joey over here.",positive
+664,data/MELD.Raw/val_audio/dia67_utt4.mp3,joy,"Oh, Im sorry. Thank you Chandler.",positive
+665,data/MELD.Raw/val_audio/dia67_utt5.mp3,neutral,"Anyway, theres this big charity ball this weekend and Ralph Lauren bought a table, so I kinda have to go",neutral
+666,data/MELD.Raw/val_audio/dia67_utt6.mp3,neutral,Whats the charity?,neutral
+667,data/MELD.Raw/val_audio/dia67_utt7.mp3,neutral,"I dont know, something either trees or diseaseRalph mumbles a lot.",neutral
+668,data/MELD.Raw/val_audio/dia67_utt8.mp3,neutral,Does Ralph mumble when youre not paying attention?,neutral
+669,data/MELD.Raw/val_audio/dia67_utt9.mp3,surprise,Yeah! Its weird. But the thing is need to find a date.,positive
+670,data/MELD.Raw/val_audio/dia67_utt10.mp3,neutral,"Well, what kind of guy are you looking for?",neutral
+671,data/MELD.Raw/val_audio/dia68_utt0.mp3,joy,Hey!,positive
+672,data/MELD.Raw/val_audio/dia68_utt1.mp3,neutral,What are you guys doing later?,neutral
+673,data/MELD.Raw/val_audio/dia68_utt2.mp3,neutral,"Oh, Rachel and I have appointments to get our hair cut.",neutral
+674,data/MELD.Raw/val_audio/dia68_utt3.mp3,surprise,We do?,negative
+675,data/MELD.Raw/val_audio/dia68_utt4.mp3,neutral,I want to see what he wants first.,neutral
+676,data/MELD.Raw/val_audio/dia68_utt5.mp3,sadness,I just found out that Elizabeths dad wants to meet me.,negative
+677,data/MELD.Raw/val_audio/dia68_utt6.mp3,surprise,"Wait a minute, hold the phone! Youre not Elizabeths dad?!",positive
+678,data/MELD.Raw/val_audio/dia68_utt7.mp3,fear,"Come on guys, I-I really want this guy to like me.",negative
+679,data/MELD.Raw/val_audio/dia68_utt8.mp3,sadness,It-it would really help me out if you guys were here to make me look good.,negative
+680,data/MELD.Raw/val_audio/dia68_utt9.mp3,joy,Of course well help! Yeah! Well be here!,positive
+681,data/MELD.Raw/val_audio/dia68_utt10.mp3,joy,Thanks!,positive
+682,data/MELD.Raw/val_audio/dia68_utt11.mp3,neutral,We know how tough those parent/teacher conferences can be.,neutral
+683,data/MELD.Raw/val_audio/dia69_utt0.mp3,joy,"Oh, hi! How are you doing?",positive
+684,data/MELD.Raw/val_audio/dia69_utt1.mp3,sadness,I'm okay. I gotta go down to the police station and look at mug shots.,negative
+685,data/MELD.Raw/val_audio/dia69_utt2.mp3,neutral,"Thanks for having me over, you guys.",neutral
+686,data/MELD.Raw/val_audio/dia69_utt3.mp3,neutral,Tag?,neutral
+687,data/MELD.Raw/val_audio/dia69_utt4.mp3,joy,Y-You're going?,positive
+688,data/MELD.Raw/val_audio/dia69_utt5.mp3,neutral,"Uh we didn't, uh we didn't get the chance to talk.",neutral
+689,data/MELD.Raw/val_audio/dia69_utt6.mp3,neutral,"Uh, so, where did you say you're from again?",neutral
+690,data/MELD.Raw/val_audio/dia69_utt7.mp3,neutral,Colorado.,neutral
+691,data/MELD.Raw/val_audio/dia69_utt8.mp3,neutral,"Ah, what good are you.",neutral
+692,data/MELD.Raw/val_audio/dia69_utt9.mp3,neutral,"Look, um, I think we should talk about what happened on the terrace.",neutral
+693,data/MELD.Raw/val_audio/dia69_utt10.mp3,neutral,Okay.,neutral
+694,data/MELD.Raw/val_audio/dia69_utt11.mp3,sadness,"Ah, I-I never should have said what I said.",negative
+695,data/MELD.Raw/val_audio/dia69_utt12.mp3,neutral,Ityknow what?,neutral
+696,data/MELD.Raw/val_audio/dia69_utt13.mp3,sadness,It just doesn't matter how I feel.,negative
+697,data/MELD.Raw/val_audio/dia69_utt14.mp3,sadness,"I mean we work together, so nothing could really ever happen between us, and what I would love is just to go to work on Monday, and-and never talk about this again, okay?",negative
+698,data/MELD.Raw/val_audio/dia69_utt15.mp3,neutral,"Um, I'm not.",neutral
+699,data/MELD.Raw/val_audio/dia69_utt16.mp3,sadness,"Oh, god, I knew it, that I freaked you out.",negative
+700,data/MELD.Raw/val_audio/dia69_utt17.mp3,sadness,"No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us.",negative
+701,data/MELD.Raw/val_audio/dia69_utt18.mp3,surprise,Really?,positive
+702,data/MELD.Raw/val_audio/dia69_utt19.mp3,sadness,"Yeah, so, please don't fire me for doing this.",negative
+703,data/MELD.Raw/val_audio/dia70_utt0.mp3,anger,"Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!",negative
+704,data/MELD.Raw/val_audio/dia70_utt1.mp3,neutral,"See buddy, that's all you need, a bunch of toothless guys hitting each other with sticks.",neutral
+705,data/MELD.Raw/val_audio/dia70_utt2.mp3,joy,Pass it! Pass it!,positive
+706,data/MELD.Raw/val_audio/dia70_utt3.mp3,joy,He's open!,positive
+707,data/MELD.Raw/val_audio/dia70_utt4.mp3,joy,Shoot! Shoot! Shoot!,positive
+708,data/MELD.Raw/val_audio/dia70_utt5.mp3,surprise,"Hey, look, we're on that TV thing!",positive
+709,data/MELD.Raw/val_audio/dia71_utt0.mp3,joy,I am so psyched I kept this chair for myself!,positive
+710,data/MELD.Raw/val_audio/dia71_utt1.mp3,neutral,"Yeah, me too.",neutral
+711,data/MELD.Raw/val_audio/dia71_utt2.mp3,surprise,"Yeah? Wow! Yknow, that this thing has speakers in the headrest!",positive
+712,data/MELD.Raw/val_audio/dia71_utt3.mp3,surprise,No. Really?,negative
+713,data/MELD.Raw/val_audio/dia71_utt4.mp3,joy,Yeah! You can hook it up to your TV,positive
+714,data/MELD.Raw/val_audio/dia71_utt5.mp3,neutral,My chair heals itself.,neutral
+715,data/MELD.Raw/val_audio/dia72_utt0.mp3,anger,"Tiger!  Dragon! Iceberg!!  Joseph, did you even study at all last night?",negative
+716,data/MELD.Raw/val_audio/dia72_utt1.mp3,sadness,"Yes! Yes, I did.",negative
+717,data/MELD.Raw/val_audio/dia72_utt2.mp3,anger,Then do Iceberg!,negative
+718,data/MELD.Raw/val_audio/dia72_utt3.mp3,neutral,G-sharp.,neutral
+719,data/MELD.Raw/val_audio/dia72_utt4.mp3,neutral,G,neutral
+720,data/MELD.Raw/val_audio/dia72_utt5.mp3,surprise,What?! I didn't touch a guitar!,negative
+721,data/MELD.Raw/val_audio/dia72_utt6.mp3,anger,"No, but you're questioning my method!",negative
+722,data/MELD.Raw/val_audio/dia72_utt7.mp3,anger,"No, I'm not questioning it, I'm saying it's stupid!  What?!",negative
+723,data/MELD.Raw/val_audio/dia72_utt8.mp3,neutral,Thank you.,neutral
+724,data/MELD.Raw/val_audio/dia72_utt9.mp3,anger,Y'know none of my other student thought I was stupid.,negative
+725,data/MELD.Raw/val_audio/dia72_utt10.mp3,anger,"Your other student, was you!",negative
+726,data/MELD.Raw/val_audio/dia72_utt11.mp3,anger,"Yeah, well, y'know maybe you just need to try a little harder!",negative
+727,data/MELD.Raw/val_audio/dia72_utt12.mp3,anger,"Look, maybe I need to try a real teacher!",negative
+728,data/MELD.Raw/val_audio/dia72_utt13.mp3,anger,Right here!,negative
+729,data/MELD.Raw/val_audio/dia72_utt14.mp3,anger,Here!,negative
+730,data/MELD.Raw/val_audio/dia72_utt15.mp3,neutral,"Andy Cooper, he teaches guitar and look ooh, there's a nice picture of him with a little kid and",neutral
+731,data/MELD.Raw/val_audio/dia72_utt16.mp3,anger,Fine! You go learn from your qualified instructor! But don't come crying to me when everyone's sick and tired of hearing you play,negative
+732,data/MELD.Raw/val_audio/dia72_utt17.mp3,neutral,"""Baddest man in the whole damn town.""",neutral
+733,data/MELD.Raw/val_audio/dia72_utt18.mp3,anger,"Oh, fine! Take his side!",negative
+734,data/MELD.Raw/val_audio/dia73_utt0.mp3,anger,"And shame on you! You should know better, Joey needs to work.  Now come on!",negative
+735,data/MELD.Raw/val_audio/dia73_utt1.mp3,anger,Hey!,negative
+736,data/MELD.Raw/val_audio/dia73_utt2.mp3,anger,No! Ah-ah-ah-ah-ah! You can have this back when the five pages are done!  Ahh!,negative
+737,data/MELD.Raw/val_audio/dia74_utt0.mp3,joy,Hi!,positive
+738,data/MELD.Raw/val_audio/dia74_utt1.mp3,neutral,Hi.,neutral
+739,data/MELD.Raw/val_audio/dia74_utt2.mp3,joy,"Hi.  Umm, I think theres something that we really need to talk about.",positive
+740,data/MELD.Raw/val_audio/dia74_utt3.mp3,sadness,"I think we do. Why dont we go inside?  Look uh, I know why youre here.",negative
+741,data/MELD.Raw/val_audio/dia74_utt4.mp3,surprise,You do?,positive
+742,data/MELD.Raw/val_audio/dia74_utt5.mp3,neutral,"Yeah, and to save you from any embarrassment umm, I think maybe I should talk first.",neutral
+743,data/MELD.Raw/val_audio/dia74_utt6.mp3,neutral,Okay.,neutral
+744,data/MELD.Raw/val_audio/dia74_utt7.mp3,neutral,"Okay.  Uh, Ross and Rachel. Rachel and Ross. Thats been one heck of a see-saw hasnt it?",neutral
+745,data/MELD.Raw/val_audio/dia74_utt8.mp3,surprise,What?,negative
+746,data/MELD.Raw/val_audio/dia74_utt9.mp3,sadness,"I mean look, that-that one night we had was fun andand certainly passionate, but dont you think its better if we just stayed friends?",negative
+747,data/MELD.Raw/val_audio/dia74_utt10.mp3,surprise,Seriously. What?!,negative
+748,data/MELD.Raw/val_audio/dia74_utt11.mp3,neutral,Okay.,neutral
+749,data/MELD.Raw/val_audio/dia74_utt12.mp3,neutral,Okay.,neutral
+750,data/MELD.Raw/val_audio/dia74_utt13.mp3,neutral,Yknow what?,neutral
+751,data/MELD.Raw/val_audio/dia74_utt14.mp3,neutral,"If you want to, we can do it one more time.",neutral
+752,data/MELD.Raw/val_audio/dia74_utt15.mp3,neutral,I mean Id-Id be okay with that.,neutral
+753,data/MELD.Raw/val_audio/dia74_utt16.mp3,neutral,"In fact, I have some time right now.",neutral
+754,data/MELD.Raw/val_audio/dia74_utt17.mp3,joy,"Okay, yknow what? Can I, can I talk now?",positive
+755,data/MELD.Raw/val_audio/dia74_utt18.mp3,neutral,Oh sure.,neutral
+756,data/MELD.Raw/val_audio/dia74_utt19.mp3,anger,"Im pregnant.  Ross?  Ross?  Okay, whenever youre ready.  And youre the father by the waybut you got that",negative
+757,data/MELD.Raw/val_audio/dia75_utt0.mp3,neutral,We should defiantly play football more often. Maybe theres a like league we could join or something.,neutral
+758,data/MELD.Raw/val_audio/dia76_utt0.mp3,joy,I know!,positive
+759,data/MELD.Raw/val_audio/dia76_utt1.mp3,surprise,"Yes! Wow, well, that-that was easy. Okay, you-you go.",positive
+760,data/MELD.Raw/val_audio/dia76_utt2.mp3,neutral,Okay.,neutral
+761,data/MELD.Raw/val_audio/dia76_utt3.mp3,neutral,Okay.,neutral
+762,data/MELD.Raw/val_audio/dia76_utt4.mp3,joy,"Okay, you know, you know when your in bed, with a woman.",positive
+763,data/MELD.Raw/val_audio/dia76_utt5.mp3,neutral,Hmph.,neutral
+764,data/MELD.Raw/val_audio/dia76_utt6.mp3,joy,"And, ah, you know, your fooling around with her.",positive
+765,data/MELD.Raw/val_audio/dia76_utt7.mp3,joy,"And you get all these like, mental images in your brain, you know, like Elle MacPherson, or that girl at the Xerox place....",positive
+766,data/MELD.Raw/val_audio/dia76_utt8.mp3,joy,"With the belly-button ring? Oh, muhawa!",positive
+767,data/MELD.Raw/val_audio/dia76_utt9.mp3,anger,"I know, And then all of the sudden your Mom pops into your head.",negative
+768,data/MELD.Raw/val_audio/dia76_utt10.mp3,anger,"And your like 'Mom, get outta here!'",negative
+769,data/MELD.Raw/val_audio/dia76_utt11.mp3,anger,"You know, but of course, like, after that you can't possibly think of anything else, and you can't, you know, stop what your doing.",negative
+770,data/MELD.Raw/val_audio/dia76_utt12.mp3,neutral,"So it's kinda like, you're, you know.",neutral
+771,data/MELD.Raw/val_audio/dia76_utt13.mp3,surprise,You know.... You don't know!,negative
+772,data/MELD.Raw/val_audio/dia76_utt14.mp3,disgust,"Your Mom, your telling me, your telling me, about your Mom, what is the matter with you?",negative
+773,data/MELD.Raw/val_audio/dia76_utt15.mp3,neutral,You said...,neutral
+774,data/MELD.Raw/val_audio/dia76_utt16.mp3,neutral,I said ',neutral
+775,data/MELD.Raw/val_audio/dia77_utt0.mp3,surprise,Oh!,positive
+776,data/MELD.Raw/val_audio/dia77_utt1.mp3,surprise,Look at Emma!,positive
+777,data/MELD.Raw/val_audio/dia77_utt2.mp3,neutral,"I just cant decide who she looks more alike, you or Rachel?",neutral
+778,data/MELD.Raw/val_audio/dia77_utt3.mp3,joy,"Oh what are you kidding? Shes gorgeous, its all Rachel.",positive
+779,data/MELD.Raw/val_audio/dia77_utt4.mp3,neutral,"Im sorry, for the last time, why arent you two together again?",neutral
+780,data/MELD.Raw/val_audio/dia77_utt5.mp3,neutral,"No, I know.",neutral
+781,data/MELD.Raw/val_audio/dia77_utt6.mp3,neutral,"I know, because youre not in that place.",neutral
+782,data/MELD.Raw/val_audio/dia77_utt7.mp3,neutral,"Which would be fine, except you totally are.",neutral
+783,data/MELD.Raw/val_audio/dia77_utt8.mp3,sadness,Itsits complicated okay?,negative
+784,data/MELD.Raw/val_audio/dia77_utt9.mp3,neutral,"Yeah thats true. Yeah, you love her. You always have. You have a child together. There is no right answer.",neutral
+785,data/MELD.Raw/val_audio/dia77_utt10.mp3,sadness,"Look, weve been together.",negative
+786,data/MELD.Raw/val_audio/dia77_utt11.mp3,neutral,Okay?,neutral
+787,data/MELD.Raw/val_audio/dia77_utt12.mp3,sadness,"And then apart, and then together, and then apart, and now we have a baby.",negative
+788,data/MELD.Raw/val_audio/dia77_utt13.mp3,sadness,Its just if-if we got together again and it didnt work outI could never do that to Emma.,negative
+789,data/MELD.Raw/val_audio/dia77_utt14.mp3,sadness,I mean she-she thinking everything Oh thatsnow me.,negative
+790,data/MELD.Raw/val_audio/dia77_utt15.mp3,neutral,What do they put something in the water in this place?,neutral
+791,data/MELD.Raw/val_audio/dia77_utt16.mp3,sadness,"Since Rachel and I were doing really, were doing really well right now.",negative
+792,data/MELD.Raw/val_audio/dia77_utt17.mp3,neutral,"I know. I know. I know. I know, and if you try to make it more you might wreck it.",neutral
+793,data/MELD.Raw/val_audio/dia77_utt18.mp3,neutral,"Yeah, exactly.",neutral
+794,data/MELD.Raw/val_audio/dia77_utt19.mp3,neutral,Right.  Or you might get everything youve wanted since you were fifteen.,neutral
+795,data/MELD.Raw/val_audio/dia78_utt0.mp3,joy,God. I forgot how much I love driving. I have,positive
+796,data/MELD.Raw/val_audio/dia78_utt1.mp3,neutral,You dont have a,neutral
+797,data/MELD.Raw/val_audio/dia78_utt2.mp3,neutral,"Oh Ross youre so tense! You just gotta relax, okay? Just need to relax all right? Just need to relax",neutral
+798,data/MELD.Raw/val_audio/dia78_utt3.mp3,anger,What-what are you doing?! Are youOkay thats not funny! Just stop horsing around!,negative
+799,data/MELD.Raw/val_audio/dia78_utt4.mp3,joy,"I am not horsing around, okay? I am Porsching around.",positive
+800,data/MELD.Raw/val_audio/dia78_utt5.mp3,fear,Uh-oh.,negative
+801,data/MELD.Raw/val_audio/dia78_utt6.mp3,neutral,"Okay, stay calm. Nothing is going to happen to you, you are not in that much trouble.",neutral
+802,data/MELD.Raw/val_audio/dia78_utt7.mp3,fear,Really? You think so?,negative
+803,data/MELD.Raw/val_audio/dia78_utt8.mp3,anger,I was talking to myself! Youre going down!,negative
+804,data/MELD.Raw/val_audio/dia79_utt0.mp3,joy,Hey honey! I missed you today!,positive
+805,data/MELD.Raw/val_audio/dia79_utt1.mp3,surprise,"Oh, yeah?",positive
+806,data/MELD.Raw/val_audio/dia79_utt2.mp3,neutral,Yeah.  What d'you wanna do tonight?,neutral
+807,data/MELD.Raw/val_audio/dia79_utt3.mp3,neutral,"Oh, well... Maybe we could...",neutral
+808,data/MELD.Raw/val_audio/dia79_utt4.mp3,joy,"Ok, trying to turn me on by making a mess?",positive
+809,data/MELD.Raw/val_audio/dia79_utt5.mp3,joy,Know your audience!,positive
+810,data/MELD.Raw/val_audio/dia79_utt6.mp3,neutral,"Besides, tomorrow we're doing those fertility tests and until then you need    to keep your tadpoles in the tank.",neutral
+811,data/MELD.Raw/val_audio/dia79_utt7.mp3,sadness,We really need to take those tests?,negative
+812,data/MELD.Raw/val_audio/dia79_utt8.mp3,neutral,"Honey, we've been trying to have a baby for over a year.",neutral
+813,data/MELD.Raw/val_audio/dia79_utt9.mp3,neutral,I think    it's a good idea to find out if everything's ok. Just a few routine tests.,neutral
+814,data/MELD.Raw/val_audio/dia79_utt10.mp3,sadness,But I don't wanna do it in a cup!,negative
+815,data/MELD.Raw/val_audio/dia80_utt0.mp3,neutral,"Oh, hi Max! Hey, do you know everybody?",neutral
+816,data/MELD.Raw/val_audio/dia80_utt1.mp3,neutral,No. Have you seen David?,neutral
+817,data/MELD.Raw/val_audio/dia80_utt2.mp3,neutral,"No, no, he hasn't been around.",neutral
+818,data/MELD.Raw/val_audio/dia80_utt3.mp3,neutral,"Well, if you see him, tell him to pack his bags. We are going to Minsk.",neutral
+819,data/MELD.Raw/val_audio/dia80_utt4.mp3,surprise,Minsk?,negative
+820,data/MELD.Raw/val_audio/dia80_utt5.mp3,neutral,Minsk. It's in Russia.,neutral
+821,data/MELD.Raw/val_audio/dia80_utt6.mp3,neutral,I know where Minsk is.,neutral
+822,data/MELD.Raw/val_audio/dia80_utt7.mp3,joy,"We got the grant. Three years, all expenses paid.",positive
+823,data/MELD.Raw/val_audio/dia80_utt8.mp3,neutral,"So when, when do you leave?",neutral
+824,data/MELD.Raw/val_audio/dia80_utt9.mp3,neutral,January first,neutral
+825,data/MELD.Raw/val_audio/dia81_utt0.mp3,joy,You wanted to see me Professor Geller?,positive
+826,data/MELD.Raw/val_audio/dia81_utt1.mp3,neutral,"Yes. Yes! Please, come in.",neutral
+827,data/MELD.Raw/val_audio/dia81_utt2.mp3,joy,Oo-oo!,positive
+828,data/MELD.Raw/val_audio/dia82_utt0.mp3,joy,Pretty great! Except I did get a little attitude from the robot.,positive
+829,data/MELD.Raw/val_audio/dia82_utt1.mp3,anger,"Damn those robots, theyre supposed to be our",negative
+830,data/MELD.Raw/val_audio/dia82_utt2.mp3,neutral,"Anyway, it wasnt the robot, it was the guy who controls him.",neutral
+831,data/MELD.Raw/val_audio/dia82_utt3.mp3,anger,"Yeah, he doesnt like me.",negative
+832,data/MELD.Raw/val_audio/dia82_utt4.mp3,neutral,He had C.H.E.E.S.E.,neutral
+833,data/MELD.Raw/val_audio/dia82_utt5.mp3,anger,knock over the sandwich right when I was reaching for one!,negative
+834,data/MELD.Raw/val_audio/dia82_utt6.mp3,surprise,Ohh!,positive
+835,data/MELD.Raw/val_audio/dia82_utt7.mp3,neutral,"Well, why dont you just get him fired?",neutral
+836,data/MELD.Raw/val_audio/dia82_utt8.mp3,anger,"I may have to, I hate to do it, but Im the star!",negative
+837,data/MELD.Raw/val_audio/dia82_utt9.mp3,neutral,Yknow?,neutral
+838,data/MELD.Raw/val_audio/dia82_utt10.mp3,neutral,Theres a limit to how many sandwiches I can eat off the floor.,neutral
+839,data/MELD.Raw/val_audio/dia82_utt11.mp3,neutral,Excuse me.,neutral
+840,data/MELD.Raw/val_audio/dia82_utt12.mp3,neutral,Joey Tribbiani.,neutral
+841,data/MELD.Raw/val_audio/dia82_utt13.mp3,joy,"Joe! Im glad I found ya, I got an audition for ya!",positive
+842,data/MELD.Raw/val_audio/dia82_utt14.mp3,surprise,Wow!,positive
+843,data/MELD.Raw/val_audio/dia82_utt15.mp3,neutral,The thing is its kinda on the Q.T.,neutral
+844,data/MELD.Raw/val_audio/dia82_utt16.mp3,neutral,The actor who has the part doesnt know he might be fired.,neutral
+845,data/MELD.Raw/val_audio/dia82_utt17.mp3,neutral,"Its the lead in a series, Mac and C.H.E.E.S.E.",neutral
+846,data/MELD.Raw/val_audio/dia82_utt18.mp3,anger,Im the lead in Mac and C.H.E.E.S.E.!!,negative
+847,data/MELD.Raw/val_audio/dia83_utt0.mp3,anger,Oh good God! If you want a baby so bad just go steal it!,negative
+848,data/MELD.Raw/val_audio/dia83_utt1.mp3,surprise,What is going on with you? Since when are you so crazy about babies?,positive
+849,data/MELD.Raw/val_audio/dia83_utt2.mp3,joy,Im not crazy about babies. Im crazy about us.,positive
+850,data/MELD.Raw/val_audio/dia83_utt3.mp3,surprise,What?,positive
+851,data/MELD.Raw/val_audio/dia83_utt4.mp3,neutral,"Look, weve always talked about having babies someday.",neutral
+852,data/MELD.Raw/val_audio/dia83_utt5.mp3,neutral,"Im not saying it has to be right now, but Im starting to think that we can handle it.",neutral
+853,data/MELD.Raw/val_audio/dia83_utt6.mp3,neutral,Were good.,neutral
+854,data/MELD.Raw/val_audio/dia83_utt7.mp3,joy,Were really good.,positive
+855,data/MELD.Raw/val_audio/dia84_utt0.mp3,surprise,"Oh, did you catch him?!",negative
+856,data/MELD.Raw/val_audio/dia84_utt1.mp3,surprise,Wh-what did he say?!,negative
+857,data/MELD.Raw/val_audio/dia84_utt2.mp3,neutral,"He said, ""Nice to meet you Glenda.""  Well, obviously I couldn't give him my real name?",neutral
+858,data/MELD.Raw/val_audio/dia84_utt3.mp3,surprise,Why?! Why not?!,negative
+859,data/MELD.Raw/val_audio/dia84_utt4.mp3,sadness,"Come on, you saw the way he ran out of here!",negative
+860,data/MELD.Raw/val_audio/dia84_utt5.mp3,sadness,He's gonna stick around and talk to the daughter he abandoned!,negative
+861,data/MELD.Raw/val_audio/dia84_utt6.mp3,neutral,What did you say to him?,neutral
+862,data/MELD.Raw/val_audio/dia84_utt7.mp3,neutral,"Well, I said, I told him y'know, that I was the executor person of Francis' will and that I needed to talk to him so I'm gonna meet him at the coffee house later.",neutral
+863,data/MELD.Raw/val_audio/dia85_utt0.mp3,neutral,"Oh yeah, sure.",neutral
+864,data/MELD.Raw/val_audio/dia85_utt1.mp3,joy,"Okay, in about ten seconds youre gonna see him kiss me.",positive
+865,data/MELD.Raw/val_audio/dia85_utt2.mp3,neutral,And in about five seconds youre gonna see why.,neutral
+866,data/MELD.Raw/val_audio/dia85_utt3.mp3,neutral,Ross did I ever tell you about the time that I went backpacking through Western Europe?,neutral
+867,data/MELD.Raw/val_audio/dia85_utt4.mp3,joy,"Okay, get ready to see some beggin!",positive
+868,data/MELD.Raw/val_audio/dia85_utt5.mp3,surprise,"Oh, you came on to Ross!",positive
+869,data/MELD.Raw/val_audio/dia85_utt6.mp3,surprise,What?!,negative
+870,data/MELD.Raw/val_audio/dia85_utt7.mp3,joy,Now Im so happy.,positive
+871,data/MELD.Raw/val_audio/dia85_utt8.mp3,surprise,What are you talking about?!,negative
+872,data/MELD.Raw/val_audio/dia85_utt9.mp3,joy,You used the Europe story!,positive
+873,data/MELD.Raw/val_audio/dia85_utt10.mp3,anger,Thats the magic story you use when you wanna have sex!,negative
+874,data/MELD.Raw/val_audio/dia85_utt11.mp3,surprise,How do you know about that story?!,negative
+875,data/MELD.Raw/val_audio/dia85_utt12.mp3,neutral,How do,neutral
+876,data/MELD.Raw/val_audio/dia85_utt13.mp3,neutral,I heard it from my friend Irene who heard it from some guy!,neutral
+877,data/MELD.Raw/val_audio/dia85_utt14.mp3,surprise,Some guy!!,positive
+878,data/MELD.Raw/val_audio/dia85_utt15.mp3,neutral,"No. No, she told me his name was Ken Adams.",neutral
+879,data/MELD.Raw/val_audio/dia85_utt16.mp3,surprise,Ken Adams!!,positive
+880,data/MELD.Raw/val_audio/dia86_utt0.mp3,neutral,"How we doing, you guys ready?",neutral
+881,data/MELD.Raw/val_audio/dia86_utt1.mp3,neutral,Mom already called this morning to remind me not to wear my hair up. Did you know my ears are not my best feature?,neutral
+882,data/MELD.Raw/val_audio/dia86_utt2.mp3,neutral,Some days it's all I can think about.,neutral
+883,data/MELD.Raw/val_audio/dia86_utt3.mp3,neutral,"Hi, sorry I'm late, I couldn't find my bearings.",neutral
+884,data/MELD.Raw/val_audio/dia87_utt0.mp3,neutral,"Oh... ok, fine.",neutral
+885,data/MELD.Raw/val_audio/dia87_utt1.mp3,neutral,But... ehm...,neutral
+886,data/MELD.Raw/val_audio/dia87_utt2.mp3,neutral,"I just have one question for you,    ehm...",neutral
+887,data/MELD.Raw/val_audio/dia87_utt3.mp3,neutral,"When we exit should we walk, or run, or prance,    or stroll...",neutral
+888,data/MELD.Raw/val_audio/dia87_utt4.mp3,joy,"Stop it, stop it! He talks slow but he might pee fast! Ok,    let's go!!",positive
+889,data/MELD.Raw/val_audio/dia88_utt0.mp3,surprise,I cant believe this! How long as this been going on?,negative
+890,data/MELD.Raw/val_audio/dia88_utt1.mp3,neutral,"Well umm, Alexandra has been",neutral
+891,data/MELD.Raw/val_audio/dia88_utt2.mp3,surprise,"Oh, it has a name?",negative
+892,data/MELD.Raw/val_audio/dia88_utt3.mp3,sadness,"Phoebe, dont get upset!",negative
+893,data/MELD.Raw/val_audio/dia88_utt4.mp3,anger,OkayOop! Too late! Im leaving! Come on Chandler lets go!,negative
+894,data/MELD.Raw/val_audio/dia88_utt5.mp3,neutral,"Well, Phoebe I thought IdYeah, what the hell.",neutral
+895,data/MELD.Raw/val_audio/dia89_utt0.mp3,fear,Ben!,negative
+896,data/MELD.Raw/val_audio/dia89_utt1.mp3,anger,"Oh, that's good. Maybe he'll hear you and pull the cord.",negative
+897,data/MELD.Raw/val_audio/dia89_utt2.mp3,fear,Stop the bus! Wait! Wait! Wait!,negative
+898,data/MELD.Raw/val_audio/dia89_utt3.mp3,neutral,Are you sure he didn't break it because it really hurts?,neutral
+899,data/MELD.Raw/val_audio/dia89_utt4.mp3,neutral,"No, it's just a good bone bruise. And, right here  is the puncture wound from your ring.",neutral
+900,data/MELD.Raw/val_audio/dia89_utt5.mp3,sadness,"Oh, I'm sorry, I'm really sorry.",negative
+901,data/MELD.Raw/val_audio/dia89_utt6.mp3,sadness,Sorry.,negative
+902,data/MELD.Raw/val_audio/dia89_utt7.mp3,sadness,Sorry!,negative
+903,data/MELD.Raw/val_audio/dia89_utt8.mp3,joy,I got my s's back!,positive
+904,data/MELD.Raw/val_audio/dia89_utt9.mp3,neutral,Which we can celebrate later.,neutral
+905,data/MELD.Raw/val_audio/dia89_utt10.mp3,neutral,Celebrate.,neutral
+906,data/MELD.Raw/val_audio/dia90_utt0.mp3,joy,"Ok, Paulo, why don't you just go get dressed, and then you be on your way, ok, bye-bye.",positive
+907,data/MELD.Raw/val_audio/dia90_utt1.mp3,neutral,"Rachel, how did this happen?",neutral
+908,data/MELD.Raw/val_audio/dia90_utt2.mp3,fear,"I don't know, I just kinda ran into him last night.",negative
+909,data/MELD.Raw/val_audio/dia90_utt3.mp3,neutral,Where?,neutral
+910,data/MELD.Raw/val_audio/dia90_utt4.mp3,neutral,At his apartment. Is this juice?,neutral
+911,data/MELD.Raw/val_audio/dia90_utt5.mp3,anger,"Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?",negative
+912,data/MELD.Raw/val_audio/dia90_utt6.mp3,sadness,"Oh God, I know I'm a pathetic loser.",negative
+913,data/MELD.Raw/val_audio/dia91_utt0.mp3,surprise,"I licked my arm, what?",positive
+914,data/MELD.Raw/val_audio/dia91_utt1.mp3,neutral,It's breast milk.,neutral
+915,data/MELD.Raw/val_audio/dia91_utt2.mp3,neutral,So?,neutral
+916,data/MELD.Raw/val_audio/dia91_utt3.mp3,neutral,"Phoebe, that is juice, squeezed from a person.",neutral
+917,data/MELD.Raw/val_audio/dia91_utt4.mp3,anger,What is the big deal?,negative
+918,data/MELD.Raw/val_audio/dia91_utt5.mp3,surprise,What did you just do?,negative
+919,data/MELD.Raw/val_audio/dia91_utt6.mp3,disgust,"Ok, would people stop drinking the breast milk?",negative
+920,data/MELD.Raw/val_audio/dia91_utt7.mp3,neutral,You won't even taste it?,neutral
+921,data/MELD.Raw/val_audio/dia91_utt8.mp3,disgust,No!,negative
+922,data/MELD.Raw/val_audio/dia91_utt9.mp3,neutral,Not even if you just pretend that it's milk?,neutral
+923,data/MELD.Raw/val_audio/dia91_utt10.mp3,disgust,Not even if Carol's breast had a picture of a missing child on it.,negative
+924,data/MELD.Raw/val_audio/dia92_utt0.mp3,surprise,Aww!,positive
+925,data/MELD.Raw/val_audio/dia92_utt1.mp3,disgust,"Hey Pheebs, could you please not put your feet up on my newold sheet?",negative
+926,data/MELD.Raw/val_audio/dia92_utt2.mp3,joy,Oh sure!  Noo!,positive
+927,data/MELD.Raw/val_audio/dia92_utt3.mp3,surprise,Ohh!!,negative
+928,data/MELD.Raw/val_audio/dia92_utt4.mp3,surprise,My apothecary table!!!,negative
+929,data/MELD.Raw/val_audio/dia92_utt5.mp3,surprise,What?!,negative
+930,data/MELD.Raw/val_audio/dia92_utt6.mp3,fear,Noooooo!!,negative
+931,data/MELD.Raw/val_audio/dia92_utt7.mp3,surprise,"Ross, where did you get this?!",negative
+932,data/MELD.Raw/val_audio/dia92_utt8.mp3,anger,"Oh my God, Phoebe,",negative
+933,data/MELD.Raw/val_audio/dia92_utt9.mp3,anger,"Wow! Oh my God, well if theyve ripped off our table ours must be much more than one and fifty dollars!",negative
+934,data/MELD.Raw/val_audio/dia92_utt10.mp3,disgust,Well this doesnt even smell like opium.,negative
+935,data/MELD.Raw/val_audio/dia92_utt11.mp3,anger,"Of course not, it smells like wine, which you spilled! And thanks for wrecking my sheet by the way.",negative
+936,data/MELD.Raw/val_audio/dia93_utt0.mp3,sadness,How is she?,negative
+937,data/MELD.Raw/val_audio/dia93_utt1.mp3,neutral,"It's too soon to tell. She's resting, which is a good sign.",neutral
+938,data/MELD.Raw/val_audio/dia93_utt2.mp3,neutral,How's the hair?,neutral
+939,data/MELD.Raw/val_audio/dia93_utt3.mp3,sadness,"I'm not gonna lie to you, Ross, it doesn't look good.",negative
+940,data/MELD.Raw/val_audio/dia93_utt4.mp3,neutral,"I put a clip on one side, which seems to have stopped the curling.",neutral
+941,data/MELD.Raw/val_audio/dia93_utt5.mp3,neutral,Can we see her?,neutral
+942,data/MELD.Raw/val_audio/dia93_utt6.mp3,sadness,"Your hair looks too good, I think it would upset her. Ross, why don't you come on in.",negative
+943,data/MELD.Raw/val_audio/dia93_utt7.mp3,sadness,How're you doing?,negative
+944,data/MELD.Raw/val_audio/dia94_utt0.mp3,neutral,Of course the packaging does appeal to grown-ups and kids alike.,neutral
+945,data/MELD.Raw/val_audio/dia94_utt1.mp3,joy,"Ross, you're being silly. I've tried it, it's no big deal. Just taste it.",positive
+946,data/MELD.Raw/val_audio/dia94_utt2.mp3,disgust,That would be no.,negative
+947,data/MELD.Raw/val_audio/dia94_utt3.mp3,neutral,Come on. It doesn't taste bad.,neutral
+948,data/MELD.Raw/val_audio/dia94_utt4.mp3,neutral,"Yeah, it's kinda sweet, sorta like, uh...",neutral
+949,data/MELD.Raw/val_audio/dia94_utt5.mp3,joy,Cantaloupe juice.,positive
+950,data/MELD.Raw/val_audio/dia94_utt6.mp3,neutral,Exactly.,neutral
+951,data/MELD.Raw/val_audio/dia94_utt7.mp3,surprise,You've tasted it? You've tasted it.,positive
+952,data/MELD.Raw/val_audio/dia94_utt8.mp3,neutral,Uh huh.,neutral
+953,data/MELD.Raw/val_audio/dia94_utt9.mp3,anger,"Oh, you've tasted it.",negative
+954,data/MELD.Raw/val_audio/dia94_utt10.mp3,neutral,"You can keep saying it, but it won't stop being true.",neutral
+955,data/MELD.Raw/val_audio/dia94_utt11.mp3,anger,Gimme the bottle.  Gimme the towel.,negative
+956,data/MELD.Raw/val_audio/dia95_utt0.mp3,anger,I still don't get why Greg and Jenny would give us a fake number.,negative
+957,data/MELD.Raw/val_audio/dia95_utt1.mp3,neutral,"Yknow, if they knew what they were doing they probably didnt give you real names either.",neutral
+958,data/MELD.Raw/val_audio/dia95_utt2.mp3,anger,"Okay, maybe people give out fake numbers, but they dont give out fake names.",negative
+959,data/MELD.Raw/val_audio/dia95_utt3.mp3,neutral,"Oh yeah?  Hi, Ken Adams, nice to meet you.",neutral
+960,data/MELD.Raw/val_audio/dia95_utt4.mp3,neutral,Regina Philange.,neutral
+961,data/MELD.Raw/val_audio/dia95_utt5.mp3,surprise,"I still dont get it, we didnt do anything wrong.",negative
+962,data/MELD.Raw/val_audio/dia95_utt6.mp3,anger,"I know! Although, you did tell an awful lot of jokes.",negative
+963,data/MELD.Raw/val_audio/dia95_utt7.mp3,surprise,I thought you said those jokes were funny. Joke! Joke! Joke!,positive
+964,data/MELD.Raw/val_audio/dia95_utt8.mp3,anger,Joke. Joke. Blah! Blah!,negative
+965,data/MELD.Raw/val_audio/dia95_utt9.mp3,neutral,Well maybe it was all of your questions.,neutral
+966,data/MELD.Raw/val_audio/dia95_utt10.mp3,neutral,What about my questions?,neutral
+967,data/MELD.Raw/val_audio/dia96_utt0.mp3,neutral,"No, Im sorry. Its just my foot itches like crazy.",neutral
+968,data/MELD.Raw/val_audio/dia96_utt1.mp3,neutral,"Oh, Ill get it.",neutral
+969,data/MELD.Raw/val_audio/dia96_utt2.mp3,surprise,Wow! I usually get to know a girl a little better before I let her spoon me.,negative
+970,data/MELD.Raw/val_audio/dia96_utt3.mp3,joy,"Relax, its not like were forking.",positive
+971,data/MELD.Raw/val_audio/dia97_utt0.mp3,joy,"Look at it! Ohhh! Wallpapers a little faded, thats okay. Carpets a little loose. Hardwood floors!!",positive
+972,data/MELD.Raw/val_audio/dia97_utt1.mp3,joy,Hey!,positive
+973,data/MELD.Raw/val_audio/dia97_utt2.mp3,neutral,Hello.,neutral
+974,data/MELD.Raw/val_audio/dia97_utt3.mp3,joy,Oh! Ooh! Oh Monica! Its so beautiful.,positive
+975,data/MELD.Raw/val_audio/dia97_utt4.mp3,joy,I know!!!,positive
+976,data/MELD.Raw/val_audio/dia97_utt5.mp3,joy,"So, Im here, ready to play.",positive
+977,data/MELD.Raw/val_audio/dia97_utt6.mp3,neutral,Okay.,neutral
+978,data/MELD.Raw/val_audio/dia97_utt7.mp3,joy,"I brought a bunch of stuff for the house, so check it out. Ha-ha.",positive
+979,data/MELD.Raw/val_audio/dia97_utt8.mp3,surprise,Whats this?,positive
+980,data/MELD.Raw/val_audio/dia97_utt9.mp3,joy,"Thats a dog, every house should have a dog.",positive
+981,data/MELD.Raw/val_audio/dia97_utt10.mp3,surprise,Not one that can pee on the roof.,negative
+982,data/MELD.Raw/val_audio/dia97_utt11.mp3,joy,"Well, maybe its so big because the house was built on radioactive waste.",positive
+983,data/MELD.Raw/val_audio/dia97_utt12.mp3,surprise,And is this in case the house sneezes?,negative
+984,data/MELD.Raw/val_audio/dia97_utt13.mp3,neutral,"No, no, thats the ghost for the attic.",neutral
+985,data/MELD.Raw/val_audio/dia97_utt14.mp3,fear,I dont want a ghost.,negative
+986,data/MELD.Raw/val_audio/dia97_utt15.mp3,neutral,"Well, nobody wants a ghost. But youve got one, because the house is sitting on an ancient Indian burial ground.",neutral
+987,data/MELD.Raw/val_audio/dia97_utt16.mp3,surprise,"Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen.",positive
+988,data/MELD.Raw/val_audio/dia97_utt17.mp3,neutral,"Okay, obviously you dont know much about the U.S. government.",neutral
+989,data/MELD.Raw/val_audio/dia97_utt18.mp3,surprise,Hey!,positive
+990,data/MELD.Raw/val_audio/dia97_utt19.mp3,neutral,Hello.,neutral
+991,data/MELD.Raw/val_audio/dia97_utt20.mp3,joy,I need to talk to you!,positive
+992,data/MELD.Raw/val_audio/dia97_utt21.mp3,neutral,"Sure, whats up?",neutral
+993,data/MELD.Raw/val_audio/dia98_utt0.mp3,anger,"All right, I just got changed in thirty seconds so you can be alone with him. You'd better go for it.",negative
+994,data/MELD.Raw/val_audio/dia98_utt1.mp3,disgust,"Please, I'm not going for anything.",negative
+995,data/MELD.Raw/val_audio/dia98_utt2.mp3,anger,"Well, if you don't, I will.",negative
+996,data/MELD.Raw/val_audio/dia98_utt3.mp3,joy,Would you please go?,positive
+997,data/MELD.Raw/val_audio/dia98_utt4.mp3,anger,I would!,negative
+998,data/MELD.Raw/val_audio/dia99_utt0.mp3,joy,"Hey, guys, guys, did you see my new, china cabinet?!",positive
+999,data/MELD.Raw/val_audio/dia99_utt1.mp3,neutral,Uh-huh.,neutral
+1000,data/MELD.Raw/val_audio/dia99_utt2.mp3,joy,"Watch, watch.",positive
+1001,data/MELD.Raw/val_audio/dia99_utt3.mp3,surprise,Ooohhhh!!,positive
+1002,data/MELD.Raw/val_audio/dia99_utt4.mp3,joy,"And, and!",positive
+1003,data/MELD.Raw/val_audio/dia99_utt5.mp3,surprise,Ahhhh!!,positive
+1004,data/MELD.Raw/val_audio/dia99_utt6.mp3,surprise,"Hey, my Fathers house does that!",positive
+1005,data/MELD.Raw/val_audio/dia99_utt7.mp3,neutral,"O-o-o-okay, how did it go? Tell me everything.",neutral
+1006,data/MELD.Raw/val_audio/dia99_utt8.mp3,neutral,"Well, the movie was great, dinner was great, and theres nothing like a cool, crisp New York evening.",neutral
+1007,data/MELD.Raw/val_audio/dia100_utt0.mp3,neutral,Okay. Its Emma.,neutral
+1008,data/MELD.Raw/val_audio/dia101_utt0.mp3,sadness,Emma!  See? I dont want it.,negative
+1009,data/MELD.Raw/val_audio/dia102_utt0.mp3,neutral,Take it.,neutral
+1010,data/MELD.Raw/val_audio/dia102_utt1.mp3,neutral,What?,neutral
+1011,data/MELD.Raw/val_audio/dia103_utt0.mp3,neutral,Its clearly an Emma.,neutral
+1012,data/MELD.Raw/val_audio/dia103_utt1.mp3,sadness,"Oh honey, but you love that name.",negative
+1013,data/MELD.Raw/val_audio/dia103_utt2.mp3,joy,"Yeah, but I love you more.",positive
+1014,data/MELD.Raw/val_audio/dia103_utt3.mp3,neutral,"Besides yknow, nothing goes with Bing.",neutral
+1015,data/MELD.Raw/val_audio/dia103_utt4.mp3,joy,So Im screwed.,positive
+1016,data/MELD.Raw/val_audio/dia104_utt0.mp3,joy,"Oh-oh, I'm a duck! I go, ""Quack, quack!"" Im happy all the time!",positive
+1017,data/MELD.Raw/val_audio/dia104_utt1.mp3,sadness,Nice try.,negative
+1018,data/MELD.Raw/val_audio/dia104_utt2.mp3,joy,"Wait, wait, wait!",positive
+1019,data/MELD.Raw/val_audio/dia104_utt3.mp3,neutral,"Look, Monica",neutral
+1020,data/MELD.Raw/val_audio/dia104_utt4.mp3,surprise,Look!,negative
+1021,data/MELD.Raw/val_audio/dia104_utt5.mp3,anger,This is not going to work.,negative
+1022,data/MELD.Raw/val_audio/dia104_utt6.mp3,joy,I bet this will work!,positive
+1023,data/MELD.Raw/val_audio/dia104_utt7.mp3,joy,You are so great! I love you!,positive
+1024,data/MELD.Raw/val_audio/dia104_utt8.mp3,surprise,What?,positive
+1025,data/MELD.Raw/val_audio/dia104_utt9.mp3,fear,"Nothing! I said, I said ""You're so great"" and then I just, I just stopped talking!",negative
+1026,data/MELD.Raw/val_audio/dia104_utt10.mp3,surprise,You said you loved me! I can't believe this!,positive
+1027,data/MELD.Raw/val_audio/dia104_utt11.mp3,fear,No I didn't!,negative
+1028,data/MELD.Raw/val_audio/dia104_utt12.mp3,surprise,"Yes, you did!",positive
+1029,data/MELD.Raw/val_audio/dia104_utt13.mp3,fear,No I didn't!,negative
+1030,data/MELD.Raw/val_audio/dia104_utt14.mp3,joy,You love me!,positive
+1031,data/MELD.Raw/val_audio/dia104_utt15.mp3,anger,No I don't! Stop it! Stop it! Stop it! Stop it!,negative
+1032,data/MELD.Raw/val_audio/dia105_utt0.mp3,neutral,Hello Greg?,neutral
+1033,data/MELD.Raw/val_audio/dia105_utt1.mp3,neutral,"Hi, this is Monica from the plane?",neutral
+1034,data/MELD.Raw/val_audio/dia105_utt2.mp3,anger,"Listen, the number that you gave me 853-5   That is their old number!",negative
+1035,data/MELD.Raw/val_audio/dia105_utt3.mp3,anger,Jennys been giving it out since they moved!,negative
+1036,data/MELD.Raw/val_audio/dia105_utt4.mp3,joy,Jenny! That is so Jenny!,positive
+1037,data/MELD.Raw/val_audio/dia105_utt5.mp3,neutral,"Hey listen umm, how would you like to get together?",neutral
+1038,data/MELD.Raw/val_audio/dia105_utt6.mp3,neutral,Say next Saturday?,neutral
+1039,data/MELD.Raw/val_audio/dia105_utt7.mp3,neutral,"Okay, how about Sunday?",neutral
+1040,data/MELD.Raw/val_audio/dia105_utt8.mp3,joy,"Okay umm, the week after that?",positive
+1041,data/MELD.Raw/val_audio/dia105_utt9.mp3,joy,The week after that?,positive
+1042,data/MELD.Raw/val_audio/dia105_utt10.mp3,anger,Yknow what Greg?,negative
+1043,data/MELD.Raw/val_audio/dia105_utt11.mp3,anger,"We are good, interesting, funny people with",negative
+1044,data/MELD.Raw/val_audio/dia106_utt0.mp3,neutral,Hey Chandler! Yknow that girl you went to college with who-who became a movie director?,neutral
+1045,data/MELD.Raw/val_audio/dia106_utt1.mp3,neutral,"Oh yeah, Dana Keystone. She was in my Movement class.",neutral
+1046,data/MELD.Raw/val_audio/dia106_utt2.mp3,neutral,Whats a Movement class?,neutral
+1047,data/MELD.Raw/val_audio/dia106_utt3.mp3,neutral,Its Chandlers way of pretending he didnt take mime.,neutral
+1048,data/MELD.Raw/val_audio/dia106_utt4.mp3,joy,"Oh well listen, anyway shes directing the new Al Pacino movie. You gotta get me an audition!",positive
+1049,data/MELD.Raw/val_audio/dia106_utt5.mp3,neutral,"Oh, I dont know man. I havent talked to her in like ten years.",neutral
+1050,data/MELD.Raw/val_audio/dia107_utt0.mp3,neutral,I am.,neutral
+1051,data/MELD.Raw/val_audio/dia107_utt1.mp3,neutral,"Joey, what are you talking about? Youre a terrific actor.",neutral
+1052,data/MELD.Raw/val_audio/dia107_utt2.mp3,surprise,You really think so?,positive
+1053,data/MELD.Raw/val_audio/dia107_utt3.mp3,surprise,"Ugh, how can you even ask that question?!",positive
+1054,data/MELD.Raw/val_audio/dia108_utt0.mp3,surprise,Ross! Get a shot of this. (He's carrying an issue of the,positive
+1055,data/MELD.Raw/val_audio/dia108_utt1.mp3,fear,"Oh, okay, I'm having another one!",negative
+1056,data/MELD.Raw/val_audio/dia108_utt2.mp3,surprise,"This one doesn't hurt eitherOoh, yes it does!",negative
+1057,data/MELD.Raw/val_audio/dia108_utt3.mp3,anger,Ow!,negative
+1058,data/MELD.Raw/val_audio/dia108_utt4.mp3,anger,Ow!,negative
+1059,data/MELD.Raw/val_audio/dia108_utt5.mp3,anger,Ow!,negative
+1060,data/MELD.Raw/val_audio/dia108_utt6.mp3,anger,Ow!,negative
+1061,data/MELD.Raw/val_audio/dia108_utt7.mp3,surprise,Ooh!,negative
+1062,data/MELD.Raw/val_audio/dia108_utt8.mp3,sadness,"Oh, I was kinda hoping that was it.",negative
+1063,data/MELD.Raw/val_audio/dia108_utt9.mp3,neutral,"Hey, where are Monica and Rachel anyway?",neutral
+1064,data/MELD.Raw/val_audio/dia108_utt10.mp3,joy,"Yeah, I love you. Okay, bye!  Hi!",positive
+1065,data/MELD.Raw/val_audio/dia108_utt11.mp3,joy,Hi!,positive
+1066,data/MELD.Raw/val_audio/dia108_utt12.mp3,fear,"That was Alice's mom, she said she left five hours ago. She should be here by now!",negative
+1067,data/MELD.Raw/val_audio/dia108_utt13.mp3,neutral,"Oh, honey, dont worry. She's gonna make it on time.",neutral
+1068,data/MELD.Raw/val_audio/dia108_utt14.mp3,neutral,Yeah.,neutral
+1069,data/MELD.Raw/val_audio/dia109_utt0.mp3,neutral,I guess I set up the video camera to try and entice Joey.,neutral
+1070,data/MELD.Raw/val_audio/dia109_utt1.mp3,joy,But sadly I could not be enticed.,positive
+1071,data/MELD.Raw/val_audio/dia109_utt2.mp3,disgust,Unbelievable! I mean you really kept Joey's underwear?! Why? Why would you do that?!,negative
+1072,data/MELD.Raw/val_audio/dia109_utt3.mp3,sadness,I'm Monica. I'm disgusting. I stalk guys and keep their underpants.,negative
+1073,data/MELD.Raw/val_audio/dia109_utt4.mp3,anger,"Well, I think we've all learned something about who's disgusting and who's not.",negative
+1074,data/MELD.Raw/val_audio/dia109_utt5.mp3,neutral,Eh?,neutral
+1075,data/MELD.Raw/val_audio/dia109_utt6.mp3,neutral,"All right, now, I'm going to get back to my bucket.",neutral
+1076,data/MELD.Raw/val_audio/dia109_utt7.mp3,neutral,"I'm only eating the skin, so the chicken's up for grabs.",neutral
+1077,data/MELD.Raw/val_audio/dia110_utt0.mp3,neutral,"Ohh, okay, they gave you the old time pricing.",neutral
+1078,data/MELD.Raw/val_audio/dia110_utt1.mp3,neutral,Yeah.,neutral
+1079,data/MELD.Raw/val_audio/dia110_utt2.mp3,neutral,"Well, what period is it from?",neutral
+1080,data/MELD.Raw/val_audio/dia110_utt3.mp3,neutral,"Uh, its from yore. Like the days of yore. Yknow?",neutral
+1081,data/MELD.Raw/val_audio/dia110_utt4.mp3,neutral,"Yes, yes I do.",neutral
+1082,data/MELD.Raw/val_audio/dia110_utt5.mp3,joy,"God, oh its just perfect!",positive
+1083,data/MELD.Raw/val_audio/dia110_utt6.mp3,joy,I bet it has a great story behind it too.,positive
+1084,data/MELD.Raw/val_audio/dia110_utt8.mp3,joy,"Yes! That I know, this is from White Plains.",positive
+1085,data/MELD.Raw/val_audio/dia110_utt9.mp3,joy,"White Plains. Oh, it sounds like such a magical place.",positive
+1086,data/MELD.Raw/val_audio/dia111_utt0.mp3,anger,"So, you still dont think Im boyfriend material?",negative
+1087,data/MELD.Raw/val_audio/dia111_utt1.mp3,neutral,Huh?,neutral
+1088,data/MELD.Raw/val_audio/dia111_utt2.mp3,neutral,I saw you checking me out during the game last night.,neutral
+1089,data/MELD.Raw/val_audio/dia112_utt0.mp3,anger,"I, umm, shut up!",negative
+1090,data/MELD.Raw/val_audio/dia112_utt1.mp3,sadness,Good-bye Phoebe and Ursula. Ill miss you. P.S. Your Mom lives in Montauk. You just wrote this!,negative
+1091,data/MELD.Raw/val_audio/dia112_utt2.mp3,neutral,"Well, its pretty much the gist. Well, except for the poem. You read the poem, right?",neutral
+1092,data/MELD.Raw/val_audio/dia112_utt3.mp3,sadness,Noooo!!,negative
+1093,data/MELD.Raw/val_audio/dia112_utt4.mp3,neutral,"All right, hang on!",neutral
+1094,data/MELD.Raw/val_audio/dia113_utt0.mp3,neutral,"Rachel, its going to happen. Chandler is gonna move in here.",neutral
+1095,data/MELD.Raw/val_audio/dia113_utt1.mp3,sadness,But I,negative
+1096,data/MELD.Raw/val_audio/dia113_utt2.mp3,neutral,"No-no, wait!",neutral
+1097,data/MELD.Raw/val_audio/dia113_utt3.mp3,sadness,"Just let me finish, okay?",negative
+1098,data/MELD.Raw/val_audio/dia113_utt4.mp3,neutral,"This isnt something that we just, we just impulsively decided in-in Vegas, this is something we both really want.",neutral
+1099,data/MELD.Raw/val_audio/dia113_utt5.mp3,neutral,And it,neutral
+1100,data/MELD.Raw/val_audio/dia113_utt6.mp3,surprise,It is? Really?,negative
+1101,data/MELD.Raw/val_audio/dia113_utt7.mp3,neutral,"Yeah, sweetie.",neutral
+1102,data/MELD.Raw/val_audio/dia113_utt8.mp3,sadness,"I mean were not, were not gonna live together anymore?",negative
+1103,data/MELD.Raw/val_audio/dia113_utt9.mp3,sadness,No.,negative
+1104,data/MELD.Raw/val_audio/dia113_utt10.mp3,sadness,What? Oh my God! Im gonna miss you so much!,negative
+1105,data/MELD.Raw/val_audio/dia113_utt11.mp3,sadness,Im gonna miss you!,negative
+1106,data/MELD.Raw/val_audio/dia113_utt12.mp3,sadness,I mean its the end of an era!,negative
+1107,data/MELD.Raw/val_audio/dia113_utt13.mp3,sadness,I know!,negative
